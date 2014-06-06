@@ -1,0 +1,3604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration ver="1.6.0">
+<property key="中国">
+	<prov key='北京'>
+		<city key='东城区'></city>
+		<city key='西城区'></city>
+		<city key='崇文区'></city>
+		<city key='宣武区'></city>
+		<city key='朝阳区'></city>
+		<city key='丰台区'></city>
+		<city key='石景山区'></city>
+		<city key='海淀区'></city>
+		<city key='门头沟区'></city>
+		<city key='房山区'></city>
+		<city key='通州区'></city>
+		<city key='顺义区'></city>
+		<city key='昌平区'></city>
+		<city key='大兴区'></city>
+		<city key='怀柔区'></city>
+		<city key='平谷区'></city>
+		<city key='密云'></city>
+		<city key='延庆'></city>
+	</prov>
+	<prov key='天津'>
+		<city key='和平区'></city>
+		<city key='河东区'></city>
+		<city key='河西区'></city>
+		<city key='南开区'></city>
+		<city key='河北区'></city>
+		<city key='红桥区'></city>
+		<city key='塘沽区'></city>
+		<city key='汉沽区'></city>
+		<city key='大港区'></city>
+		<city key='东丽区'></city>
+		<city key='西青区'></city>
+		<city key='津南区'></city>
+		<city key='北辰区'></city>
+		<city key='武清区'></city>
+		<city key='宝坻区'></city>
+		<city key='宁河'></city>
+		<city key='静海'></city>
+		<city key='蓟县'></city>
+	</prov>
+	<prov key='河北'>
+		<city key='石家庄'>
+			<district key='长安区'></district>
+			<district key='桥东区'></district>
+			<district key='桥西区'></district>
+			<district key='新华区'></district>
+			<district key='井陉矿区'></district>
+			<district key='裕华区'></district>
+			<district key='井陉'></district>
+			<district key='正定'></district>
+			<district key='栾城'></district>
+			<district key='行唐'></district>
+			<district key='灵寿'></district>
+			<district key='高邑'></district>
+			<district key='深泽'></district>
+			<district key='赞皇'></district>
+			<district key='无极'></district>
+			<district key='平山'></district>
+			<district key='元氏'></district>
+			<district key='赵县'></district>
+			<district key='辛集'></district>
+			<district key='藁城'></district>
+			<district key='晋州'></district>
+			<district key='新乐'></district>
+			<district key='鹿泉'></district>
+		</city>
+		<city key='唐山'>
+			<district key='路南区'></district>
+			<district key='路北区'></district>
+			<district key='古冶区'></district>
+			<district key='开平区'></district>
+			<district key='丰南区'></district>
+			<district key='丰润区'></district>
+			<district key='滦县'></district>
+			<district key='滦南'></district>
+			<district key='乐亭'></district>
+			<district key='迁西'></district>
+			<district key='玉田'></district>
+			<district key='唐海'></district>
+			<district key='遵化'></district>
+			<district key='迁安'></district>
+		</city>
+		<city key='秦皇岛'>
+			<district key='海港区'></district>
+			<district key='山海关区'></district>
+			<district key='北戴河区'></district>
+			<district key='青龙'></district>
+			<district key='昌黎'></district>
+			<district key='抚宁'></district>
+			<district key='卢龙'></district>
+		</city>
+		<city key='邯郸'>
+			<district key='邯山区'></district>
+			<district key='丛台区'></district>
+			<district key='复兴区'></district>
+			<district key='峰峰矿区'></district>
+			<district key='邯郸'></district>
+			<district key='临漳'></district>
+			<district key='成安'></district>
+			<district key='大名'></district>
+			<district key='涉县'></district>
+			<district key='磁县'></district>
+			<district key='肥乡'></district>
+			<district key='永年'></district>
+			<district key='邱县'></district>
+			<district key='鸡泽'></district>
+			<district key='广平'></district>
+			<district key='馆陶'></district>
+			<district key='魏县'></district>
+			<district key='曲周'></district>
+			<district key='武安'></district>
+		</city>
+		<city key='邢台'>
+			<district key='桥东区'></district>
+			<district key='桥西区'></district>
+			<district key='邢台'></district>
+			<district key='临城'></district>
+			<district key='内丘'></district>
+			<district key='柏乡'></district>
+			<district key='隆尧'></district>
+			<district key='任县'></district>
+			<district key='南和'></district>
+			<district key='宁晋'></district>
+			<district key='巨鹿'></district>
+			<district key='新河'></district>
+			<district key='广宗'></district>
+			<district key='平乡'></district>
+			<district key='威县'></district>
+			<district key='清河'></district>
+			<district key='临西'></district>
+			<district key='南宫'></district>
+			<district key='沙河'></district>
+		</city>
+		<city key='保定'>
+			<district key='新市区'></district>
+			<district key='北市区'></district>
+			<district key='南市区'></district>
+			<district key='满城'></district>
+			<district key='清苑'></district>
+			<district key='涞水'></district>
+			<district key='阜平'></district>
+			<district key='徐水'></district>
+			<district key='定兴'></district>
+			<district key='唐县'></district>
+			<district key='高阳'></district>
+			<district key='容城'></district>
+			<district key='涞源'></district>
+			<district key='望都'></district>
+			<district key='安新'></district>
+			<district key='易县'></district>
+			<district key='曲阳'></district>
+			<district key='蠡县'></district>
+			<district key='顺平'></district>
+			<district key='博野'></district>
+			<district key='雄县'></district>
+			<district key='涿州'></district>
+			<district key='定州'></district>
+			<district key='安国'></district>
+			<district key='高碑店'></district>
+		</city>
+		<city key='张家口'>
+			<district key='桥东区'></district>
+			<district key='桥西区'></district>
+			<district key='宣化区'></district>
+			<district key='下花园区'></district>
+			<district key='宣化'></district>
+			<district key='张北'></district>
+			<district key='康保'></district>
+			<district key='沽源'></district>
+			<district key='尚义'></district>
+			<district key='蔚县'></district>
+			<district key='阳原'></district>
+			<district key='怀安'></district>
+			<district key='万全'></district>
+			<district key='怀来'></district>
+			<district key='涿鹿'></district>
+			<district key='赤城'></district>
+			<district key='崇礼'></district>
+		</city>
+		<city key='承德'>
+			<district key='双桥区'></district>
+			<district key='双滦区'></district>
+			<district key='鹰手营子矿区'></district>
+			<district key='承德'></district>
+			<district key='兴隆'></district>
+			<district key='平泉'></district>
+			<district key='滦平'></district>
+			<district key='隆化'></district>
+			<district key='丰宁'></district>
+			<district key='宽城'></district>
+			<district key='围场'></district>
+		</city>
+		<city key='沧州'>
+			<district key='新华区'></district>
+			<district key='运河区'></district>
+			<district key='沧县'></district>
+			<district key='青县'></district>
+			<district key='东光'></district>
+			<district key='海兴'></district>
+			<district key='盐山'></district>
+			<district key='肃宁'></district>
+			<district key='南皮'></district>
+			<district key='吴桥'></district>
+			<district key='献县'></district>
+			<district key='孟村'></district>
+			<district key='泊头'></district>
+			<district key='任丘'></district>
+			<district key='黄骅'></district>
+			<district key='河间'></district>
+		</city>
+		<city key='廊坊'>
+			<district key='安次区'></district>
+			<district key='广阳区'></district>
+			<district key='固安'></district>
+			<district key='永清'></district>
+			<district key='香河'></district>
+			<district key='大城'></district>
+			<district key='文安'></district>
+			<district key='大厂'></district>
+			<district key='霸州'></district>
+			<district key='三河'></district>
+		</city>
+		<city key='衡水'>
+			<district key='桃城区'></district>
+			<district key='枣强'></district>
+			<district key='武邑'></district>
+			<district key='武强'></district>
+			<district key='饶阳'></district>
+			<district key='安平'></district>
+			<district key='故城'></district>
+			<district key='景县'></district>
+			<district key='阜城'></district>
+			<district key='冀州'></district>
+			<district key='深州'></district>
+		</city>
+	</prov>
+	<prov key='山西'>
+		<city key='太原'>
+			<district key='小店区'></district>
+			<district key='迎泽区'></district>
+			<district key='杏花岭区'></district>
+			<district key='尖草坪区'></district>
+			<district key='万柏林区'></district>
+			<district key='晋源区'></district>
+			<district key='清徐'></district>
+			<district key='阳曲'></district>
+			<district key='娄烦'></district>
+			<district key='古交'></district>
+		</city>
+		<city key='大同'>
+			<district key='城区'></district>
+			<district key='矿区'></district>
+			<district key='南郊区'></district>
+			<district key='新荣区'></district>
+			<district key='阳高'></district>
+			<district key='天镇'></district>
+			<district key='广灵'></district>
+			<district key='灵丘'></district>
+			<district key='浑源'></district>
+			<district key='左云'></district>
+			<district key='大同'></district>
+		</city>
+		<city key='阳泉'>
+			<district key='城区'></district>
+			<district key='矿区'></district>
+			<district key='郊区'></district>
+			<district key='平定'></district>
+			<district key='盂县'></district>
+		</city>
+		<city key='长治'>
+			<district key='城区'></district>
+			<district key='郊区'></district>
+			<district key='长治'></district>
+			<district key='襄垣'></district>
+			<district key='屯留'></district>
+			<district key='平顺'></district>
+			<district key='黎城'></district>
+			<district key='壶关'></district>
+			<district key='长子'></district>
+			<district key='武乡'></district>
+			<district key='沁县'></district>
+			<district key='沁源'></district>
+			<district key='潞城'></district>
+		</city>
+		<city key='晋城'>
+			<district key='城区'></district>
+			<district key='沁水'></district>
+			<district key='阳城'></district>
+			<district key='陵川'></district>
+			<district key='泽州'></district>
+			<district key='高平'></district>
+		</city>
+		<city key='朔州'>
+			<district key='朔城区'></district>
+			<district key='平鲁区'></district>
+			<district key='山阴'></district>
+			<district key='应县'></district>
+			<district key='右玉'></district>
+			<district key='怀仁'></district>
+		</city>
+		<city key='晋中'>
+			<district key='榆次区'></district>
+			<district key='榆社'></district>
+			<district key='左权'></district>
+			<district key='和顺'></district>
+			<district key='昔阳'></district>
+			<district key='寿阳'></district>
+			<district key='太谷'></district>
+			<district key='祁县'></district>
+			<district key='平遥'></district>
+			<district key='灵石'></district>
+			<district key='介休'></district>
+		</city>
+		<city key='运城'>
+			<district key='盐湖区'></district>
+			<district key='临猗'></district>
+			<district key='万荣'></district>
+			<district key='闻喜'></district>
+			<district key='稷山'></district>
+			<district key='新绛'></district>
+			<district key='绛县'></district>
+			<district key='垣曲'></district>
+			<district key='夏县'></district>
+			<district key='平陆'></district>
+			<district key='芮城'></district>
+			<district key='永济'></district>
+			<district key='河津'></district>
+		</city>
+		<city key='忻州'>
+			<district key='忻府区'></district>
+			<district key='定襄'></district>
+			<district key='五台'></district>
+			<district key='代县'></district>
+			<district key='繁峙'></district>
+			<district key='宁武'></district>
+			<district key='静乐'></district>
+			<district key='神池'></district>
+			<district key='五寨'></district>
+			<district key='岢岚'></district>
+			<district key='河曲'></district>
+			<district key='保德'></district>
+			<district key='偏关'></district>
+			<district key='原平'></district>
+		</city>
+		<city key='临汾'>
+			<district key='尧都区'></district>
+			<district key='曲沃'></district>
+			<district key='翼城'></district>
+			<district key='襄汾'></district>
+			<district key='洪洞'></district>
+			<district key='古县'></district>
+			<district key='安泽'></district>
+			<district key='浮山'></district>
+			<district key='吉县'></district>
+			<district key='乡宁'></district>
+			<district key='大宁'></district>
+			<district key='隰县'></district>
+			<district key='永和'></district>
+			<district key='蒲县'></district>
+			<district key='汾西'></district>
+			<district key='侯马'></district>
+			<district key='霍州'></district>
+		</city>
+		<city key='吕梁'>
+			<district key='离石区'></district>
+			<district key='文水'></district>
+			<district key='交城'></district>
+			<district key='兴县'></district>
+			<district key='临县'></district>
+			<district key='柳林'></district>
+			<district key='石楼'></district>
+			<district key='岚县'></district>
+			<district key='方山'></district>
+			<district key='中阳'></district>
+			<district key='交口'></district>
+			<district key='孝义'></district>
+			<district key='汾阳'></district>
+		</city>
+	</prov>
+	<prov key='内蒙古'>
+		<city key='呼和浩特'>
+			<district key='新城区'></district>
+			<district key='回民区'></district>
+			<district key='玉泉区'></district>
+			<district key='赛罕区'></district>
+			<district key='土默特左旗'></district>
+			<district key='托克托'></district>
+			<district key='和林格尔'></district>
+			<district key='清水河'></district>
+			<district key='武川'></district>
+		</city>
+		<city key='包头'>
+			<district key='东河区'></district>
+			<district key='昆都仑区'></district>
+			<district key='青山区'></district>
+			<district key='石拐区'></district>
+			<district key='白云矿区'></district>
+			<district key='九原区'></district>
+			<district key='土默特右旗'></district>
+			<district key='固阳'></district>
+			<district key='达尔罕茂明安联合旗'></district>
+		</city>
+		<city key='乌海'>
+			<district key='海勃湾区'></district>
+			<district key='海南区'></district>
+			<district key='乌达区'></district>
+		</city>
+		<city key='赤峰'>
+			<district key='红山区'></district>
+			<district key='元宝山区'></district>
+			<district key='松山区'></district>
+			<district key='阿鲁科尔沁旗'></district>
+			<district key='巴林左旗'></district>
+			<district key='巴林右旗'></district>
+			<district key='林西'></district>
+			<district key='克什克腾旗'></district>
+			<district key='翁牛特旗'></district>
+			<district key='喀喇沁旗'></district>
+			<district key='宁城'></district>
+			<district key='敖汉旗'></district>
+		</city>
+		<city key='通辽'>
+			<district key='科尔沁区'></district>
+			<district key='科尔沁左翼中旗'></district>
+			<district key='科尔沁左翼后旗'></district>
+			<district key='开鲁'></district>
+			<district key='库伦旗'></district>
+			<district key='奈曼旗'></district>
+			<district key='扎鲁特旗'></district>
+			<district key='霍林郭勒'></district>
+		</city>
+		<city key='鄂尔多斯'>
+			<district key='东胜区'></district>
+			<district key='达拉特旗'></district>
+			<district key='准格尔旗'></district>
+			<district key='鄂托克前旗'></district>
+			<district key='鄂托克旗'></district>
+			<district key='杭锦旗'></district>
+			<district key='乌审旗'></district>
+			<district key='伊金霍洛旗'></district>
+		</city>
+		<city key='呼伦贝尔'>
+			<district key='海拉尔区'></district>
+			<district key='阿荣旗'></district>
+			<district key='莫力达瓦'></district>
+			<district key='鄂伦春自治旗'></district>
+			<district key='鄂温克族自治旗'></district>
+			<district key='陈巴尔虎旗'></district>
+			<district key='新巴尔虎左旗'></district>
+			<district key='新巴尔虎右旗'></district>
+			<district key='满洲里'></district>
+			<district key='牙克石'></district>
+			<district key='扎兰屯'></district>
+			<district key='额尔古纳'></district>
+			<district key='根河'></district>
+		</city>
+		<city key='巴彦淖尔'>
+			<district key='临河区'></district>
+			<district key='五原'></district>
+			<district key='磴口'></district>
+			<district key='乌拉特前旗'></district>
+			<district key='乌拉特中旗'></district>
+			<district key='乌拉特后旗'></district>
+			<district key='杭锦后旗'></district>
+		</city>
+		<city key='乌兰察布'>
+			<district key='集宁区'></district>
+			<district key='卓资'></district>
+			<district key='化德'></district>
+			<district key='商都'></district>
+			<district key='兴和'></district>
+			<district key='凉城'></district>
+			<district key='察哈尔右翼前旗'></district>
+			<district key='察哈尔右翼中旗'></district>
+			<district key='察哈尔右翼后旗'></district>
+			<district key='四子王旗'></district>
+			<district key='丰镇'></district>
+		</city>
+		<city key='兴安盟'>
+			<district key='乌兰浩特'></district>
+			<district key='阿尔山'></district>
+			<district key='科尔沁右翼前旗'></district>
+			<district key='科尔沁右翼中旗'></district>
+			<district key='扎赉特旗'></district>
+			<district key='突泉'></district>
+		</city>
+		<city key='锡林郭勒盟'>
+			<district key='二连浩特'></district>
+			<district key='锡林浩特'></district>
+			<district key='阿巴嘎旗'></district>
+			<district key='苏尼特左旗'></district>
+			<district key='苏尼特右旗'></district>
+			<district key='东乌珠穆沁旗'></district>
+			<district key='西乌珠穆沁旗'></district>
+			<district key='太仆寺旗'></district>
+			<district key='镶黄旗'></district>
+			<district key='正镶白旗'></district>
+			<district key='正蓝旗'></district>
+			<district key='多伦'></district>
+		</city>
+		<city key='阿拉善盟'>
+			<district key='阿拉善左旗'></district>
+			<district key='阿拉善右旗'></district>
+			<district key='额济纳旗'></district>
+		</city>
+	</prov>
+	<prov key='辽宁'>
+		<city key='沈阳'>
+			<district key='和平区'></district>
+			<district key='沈河区'></district>
+			<district key='大东区'></district>
+			<district key='皇姑区'></district>
+			<district key='铁西区'></district>
+			<district key='苏家屯区'></district>
+			<district key='东陵区'></district>
+			<district key='新城子区'></district>
+			<district key='于洪区'></district>
+			<district key='辽中'></district>
+			<district key='康平'></district>
+			<district key='法库'></district>
+			<district key='新民'></district>
+		</city>
+		<city key='大连'>
+			<district key='中山区'></district>
+			<district key='西岗区'></district>
+			<district key='沙河口区'></district>
+			<district key='甘井子区'></district>
+			<district key='旅顺口区'></district>
+			<district key='金州区'></district>
+			<district key='长海'></district>
+			<district key='瓦房店'></district>
+			<district key='普兰店'></district>
+			<district key='庄河'></district>
+		</city>
+		<city key='鞍山'>
+			<district key='铁东区'></district>
+			<district key='铁西区'></district>
+			<district key='立山区'></district>
+			<district key='千山区'></district>
+			<district key='台安'></district>
+			<district key='岫岩'></district>
+			<district key='海城'></district>
+		</city>
+		<city key='抚顺'>
+			<district key='新抚区'></district>
+			<district key='东洲区'></district>
+			<district key='望花区'></district>
+			<district key='顺城区'></district>
+			<district key='抚顺'></district>
+			<district key='新宾'></district>
+			<district key='清原'></district>
+		</city>
+		<city key='本溪'>
+			<district key='平山区'></district>
+			<district key='溪湖区'></district>
+			<district key='明山区'></district>
+			<district key='南芬区'></district>
+			<district key='本溪'></district>
+			<district key='桓仁'></district>
+		</city>
+		<city key='丹东'>
+			<district key='元宝区'></district>
+			<district key='振兴区'></district>
+			<district key='振安区'></district>
+			<district key='宽甸'></district>
+			<district key='东港'></district>
+			<district key='凤城'></district>
+		</city>
+		<city key='锦州'>
+			<district key='古塔区'></district>
+			<district key='凌河区'></district>
+			<district key='太和区'></district>
+			<district key='黑山'></district>
+			<district key='义县'></district>
+			<district key='凌海'></district>
+			<district key='北宁'></district>
+		</city>
+		<city key='营口'>
+			<district key='站前区'></district>
+			<district key='西市区'></district>
+			<district key='鲅鱼圈区'></district>
+			<district key='老边区'></district>
+			<district key='盖州'></district>
+			<district key='大石桥'></district>
+		</city>
+		<city key='阜新'>
+			<district key='海州区'></district>
+			<district key='新邱区'></district>
+			<district key='太平区'></district>
+			<district key='清河门区'></district>
+			<district key='细河区'></district>
+			<district key='阜新'></district>
+			<district key='彰武'></district>
+		</city>
+		<city key='辽阳'>
+			<district key='白塔区'></district>
+			<district key='文圣区'></district>
+			<district key='宏伟区'></district>
+			<district key='弓长岭区'></district>
+			<district key='太子河区'></district>
+			<district key='辽阳'></district>
+			<district key='灯塔'></district>
+		</city>
+		<city key='盘锦'>
+			<district key='双台子区'></district>
+			<district key='兴隆台区'></district>
+			<district key='大洼'></district>
+			<district key='盘山'></district>
+		</city>
+		<city key='铁岭'>
+			<district key='银州区'></district>
+			<district key='清河区'></district>
+			<district key='铁岭'></district>
+			<district key='西丰'></district>
+			<district key='昌图'></district>
+			<district key='调兵山'></district>
+			<district key='开原'></district>
+		</city>
+		<city key='朝阳'>
+			<district key='双塔区'></district>
+			<district key='龙城区'></district>
+			<district key='朝阳'></district>
+			<district key='建平'></district>
+			<district key='喀喇沁左翼'></district>
+			<district key='北票'></district>
+			<district key='凌源'></district>
+		</city>
+		<city key='葫芦岛'>
+			<district key='连山区'></district>
+			<district key='龙港区'></district>
+			<district key='南票区'></district>
+			<district key='绥中'></district>
+			<district key='建昌'></district>
+			<district key='兴城'></district>
+		</city>
+	</prov>
+	<prov key='吉林'>
+		<city key='长春'>
+			<district key='南关区'></district>
+			<district key='宽城区'></district>
+			<district key='朝阳区'></district>
+			<district key='二道区'></district>
+			<district key='绿园区'></district>
+			<district key='双阳区'></district>
+			<district key='农安'></district>
+			<district key='九台'></district>
+			<district key='榆树'></district>
+			<district key='德惠'></district>
+		</city>
+		<city key='吉林'>
+			<district key='昌邑区'></district>
+			<district key='龙潭区'></district>
+			<district key='船营区'></district>
+			<district key='丰满区'></district>
+			<district key='永吉'></district>
+			<district key='蛟河'></district>
+			<district key='桦甸'></district>
+			<district key='舒兰'></district>
+			<district key='磐石'></district>
+		</city>
+		<city key='四平'>
+			<district key='铁西区'></district>
+			<district key='铁东区'></district>
+			<district key='梨树'></district>
+			<district key='伊通'></district>
+			<district key='公主岭'></district>
+			<district key='双辽'></district>
+		</city>
+		<city key='辽源'>
+			<district key='龙山区'></district>
+			<district key='西安区'></district>
+			<district key='东丰'></district>
+			<district key='东辽'></district>
+		</city>
+		<city key='通化'>
+			<district key='东昌区'></district>
+			<district key='二道江区'></district>
+			<district key='通化'></district>
+			<district key='辉南'></district>
+			<district key='柳河'></district>
+			<district key='梅河口'></district>
+			<district key='集安'></district>
+		</city>
+		<city key='白山'>
+			<district key='八道江区'></district>
+			<district key='抚松'></district>
+			<district key='靖宇'></district>
+			<district key='长白'></district>
+			<district key='江源'></district>
+			<district key='临江'></district>
+		</city>
+		<city key='松原'>
+			<district key='宁江区'></district>
+			<district key='前郭尔罗斯'></district>
+			<district key='长岭'></district>
+			<district key='乾安'></district>
+			<district key='扶余'></district>
+		</city>
+		<city key='白城'>
+			<district key='洮北区'></district>
+			<district key='镇赉'></district>
+			<district key='通榆'></district>
+			<district key='洮南'></district>
+			<district key='大安'></district>
+		</city>
+		<city key='延边'>
+			<district key='延吉'></district>
+			<district key='图们'></district>
+			<district key='敦化'></district>
+			<district key='珲春'></district>
+			<district key='龙井'></district>
+			<district key='和龙'></district>
+			<district key='汪清'></district>
+			<district key='安图'></district>
+		</city>
+	</prov>
+	<prov key='黑龙江'>
+		<city key='哈尔滨'>
+			<district key='道里区'></district>
+			<district key='南岗区'></district>
+			<district key='道外区'></district>
+			<district key='香坊区'></district>
+			<district key='动力区'></district>
+			<district key='平房区'></district>
+			<district key='松北区'></district>
+			<district key='呼兰区'></district>
+			<district key='依兰'></district>
+			<district key='方正'></district>
+			<district key='宾县'></district>
+			<district key='巴彦'></district>
+			<district key='木兰'></district>
+			<district key='通河'></district>
+			<district key='延寿'></district>
+			<district key='阿城'></district>
+			<district key='双城'></district>
+			<district key='尚志'></district>
+			<district key='五常'></district>
+		</city>
+		<city key='齐齐哈尔'>
+			<district key='龙沙区'></district>
+			<district key='建华区'></district>
+			<district key='铁锋区'></district>
+			<district key='昂昂溪区'></district>
+			<district key='富拉尔基区'></district>
+			<district key='碾子山区'></district>
+			<district key='梅里斯'></district>
+			<district key='龙江'></district>
+			<district key='依安'></district>
+			<district key='泰来'></district>
+			<district key='甘南'></district>
+			<district key='富裕'></district>
+			<district key='克山'></district>
+			<district key='克东'></district>
+			<district key='拜泉'></district>
+			<district key='讷河'></district>
+		</city>
+		<city key='鸡西'>
+			<district key='鸡冠区'></district>
+			<district key='恒山区'></district>
+			<district key='滴道区'></district>
+			<district key='梨树区'></district>
+			<district key='城子河区'></district>
+			<district key='麻山区'></district>
+			<district key='鸡东'></district>
+			<district key='虎林'></district>
+			<district key='密山'></district>
+		</city>
+		<city key='鹤岗'>
+			<district key='向阳区'></district>
+			<district key='工农区'></district>
+			<district key='南山区'></district>
+			<district key='兴安区'></district>
+			<district key='东山区'></district>
+			<district key='兴山区'></district>
+			<district key='萝北'></district>
+			<district key='绥滨'></district>
+		</city>
+		<city key='双鸭山'>
+			<district key='尖山区'></district>
+			<district key='岭东区'></district>
+			<district key='四方台区'></district>
+			<district key='宝山区'></district>
+			<district key='集贤'></district>
+			<district key='友谊'></district>
+			<district key='宝清'></district>
+			<district key='饶河'></district>
+		</city>
+		<city key='大庆'>
+			<district key='萨尔图区'></district>
+			<district key='龙凤区'></district>
+			<district key='让胡路区'></district>
+			<district key='红岗区'></district>
+			<district key='大同区'></district>
+			<district key='肇州'></district>
+			<district key='肇源'></district>
+			<district key='林甸'></district>
+			<district key='杜尔伯特'></district>
+		</city>
+		<city key='伊春'>
+			<district key='伊春区'></district>
+			<district key='南岔区'></district>
+			<district key='友好区'></district>
+			<district key='西林区'></district>
+			<district key='翠峦区'></district>
+			<district key='新青区'></district>
+			<district key='美溪区'></district>
+			<district key='金山屯区'></district>
+			<district key='五营区'></district>
+			<district key='乌马河区'></district>
+			<district key='汤旺河区'></district>
+			<district key='带岭区'></district>
+			<district key='乌伊岭区'></district>
+			<district key='红星区'></district>
+			<district key='上甘岭区'></district>
+			<district key='嘉荫'></district>
+			<district key='铁力'></district>
+		</city>
+		<city key='佳木斯'>
+			<district key='永红区'></district>
+			<district key='向阳区'></district>
+			<district key='前进区'></district>
+			<district key='东风区'></district>
+			<district key='郊区'></district>
+			<district key='桦南'></district>
+			<district key='桦川'></district>
+			<district key='汤原'></district>
+			<district key='抚远'></district>
+			<district key='同江'></district>
+			<district key='富锦'></district>
+		</city>
+		<city key='七台河'>
+			<district key='新兴区'></district>
+			<district key='桃山区'></district>
+			<district key='茄子河区'></district>
+			<district key='勃利'></district>
+		</city>
+		<city key='牡丹江'>
+			<district key='东安区'></district>
+			<district key='阳明区'></district>
+			<district key='爱民区'></district>
+			<district key='西安区'></district>
+			<district key='东宁'></district>
+			<district key='林口'></district>
+			<district key='绥芬河'></district>
+			<district key='海林'></district>
+			<district key='宁安'></district>
+			<district key='穆棱'></district>
+		</city>
+		<city key='黑河'>
+			<district key='爱辉区'></district>
+			<district key='嫩江'></district>
+			<district key='逊克'></district>
+			<district key='孙吴'></district>
+			<district key='北安'></district>
+			<district key='五大连池'></district>
+		</city>
+		<city key='绥化'>
+			<district key='北林区'></district>
+			<district key='望奎'></district>
+			<district key='兰西'></district>
+			<district key='青冈'></district>
+			<district key='庆安'></district>
+			<district key='明水'></district>
+			<district key='绥棱'></district>
+			<district key='安达'></district>
+			<district key='肇东'></district>
+			<district key='海伦'></district>
+		</city>
+		<city key='大兴安岭'>
+			<district key='呼玛'></district>
+			<district key='塔河'></district>
+			<district key='漠河'></district>
+		</city>
+	</prov>
+	<prov key='上海'>
+		<city key='黄浦区'></city>
+		<city key='卢湾区'></city>
+		<city key='徐汇区'></city>
+		<city key='长宁区'></city>
+		<city key='静安区'></city>
+		<city key='普陀区'></city>
+		<city key='闸北区'></city>
+		<city key='虹口区'></city>
+		<city key='杨浦区'></city>
+		<city key='闵行区'></city>
+		<city key='宝山区'></city>
+		<city key='嘉定区'></city>
+		<city key='浦东新区'></city>
+		<city key='金山区'></city>
+		<city key='松江区'></city>
+		<city key='青浦区'></city>
+		<city key='南汇区'></city>
+		<city key='奉贤区'></city>
+		<city key='崇明'></city>
+	</prov>
+	<prov key='江苏'>
+		<city key='南京'>
+			<district key='玄武区'></district>
+			<district key='白下区'></district>
+			<district key='秦淮区'></district>
+			<district key='建邺区'></district>
+			<district key='鼓楼区'></district>
+			<district key='下关区'></district>
+			<district key='浦口区'></district>
+			<district key='栖霞区'></district>
+			<district key='雨花台区'></district>
+			<district key='江宁区'></district>
+			<district key='六合区'></district>
+			<district key='溧水'></district>
+			<district key='高淳'></district>
+		</city>
+		<city key='无锡'>
+			<district key='崇安区'></district>
+			<district key='南长区'></district>
+			<district key='北塘区'></district>
+			<district key='锡山区'></district>
+			<district key='惠山区'></district>
+			<district key='滨湖区'></district>
+			<district key='江阴'></district>
+			<district key='宜兴'></district>
+		</city>
+		<city key='徐州'>
+			<district key='鼓楼区'></district>
+			<district key='云龙区'></district>
+			<district key='九里区'></district>
+			<district key='贾汪区'></district>
+			<district key='泉山区'></district>
+			<district key='丰县'></district>
+			<district key='沛县'></district>
+			<district key='铜山'></district>
+			<district key='睢宁'></district>
+			<district key='新沂'></district>
+			<district key='邳州'></district>
+		</city>
+		<city key='常州'>
+			<district key='天宁区'></district>
+			<district key='钟楼区'></district>
+			<district key='戚墅堰区'></district>
+			<district key='新北区'></district>
+			<district key='武进区'></district>
+			<district key='溧阳'></district>
+			<district key='金坛'></district>
+		</city>
+		<city key='苏州'>
+			<district key='沧浪区'></district>
+			<district key='平江区'></district>
+			<district key='金阊区'></district>
+			<district key='虎丘区'></district>
+			<district key='吴中区'></district>
+			<district key='相城区'></district>
+			<district key='常熟'></district>
+			<district key='张家港'></district>
+			<district key='昆山'></district>
+			<district key='吴江'></district>
+			<district key='太仓'></district>
+		</city>
+		<city key='南通'>
+			<district key='崇川区'></district>
+			<district key='港闸区'></district>
+			<district key='海安'></district>
+			<district key='如东'></district>
+			<district key='启东'></district>
+			<district key='如皋'></district>
+			<district key='通州'></district>
+			<district key='海门'></district>
+		</city>
+		<city key='连云港'>
+			<district key='连云区'></district>
+			<district key='新浦区'></district>
+			<district key='海州区'></district>
+			<district key='赣榆'></district>
+			<district key='东海'></district>
+			<district key='灌云'></district>
+			<district key='灌南'></district>
+		</city>
+		<city key='淮安'>
+			<district key='清河区'></district>
+			<district key='楚州区'></district>
+			<district key='淮阴区'></district>
+			<district key='清浦区'></district>
+			<district key='涟水'></district>
+			<district key='洪泽'></district>
+			<district key='盱眙'></district>
+			<district key='金湖'></district>
+		</city>
+		<city key='盐城'>
+			<district key='亭湖区'></district>
+			<district key='盐都区'></district>
+			<district key='响水'></district>
+			<district key='滨海'></district>
+			<district key='阜宁'></district>
+			<district key='射阳'></district>
+			<district key='建湖'></district>
+			<district key='东台'></district>
+			<district key='大丰'></district>
+		</city>
+		<city key='扬州'>
+			<district key='广陵区'></district>
+			<district key='邗江区'></district>
+			<district key='郊区'></district>
+			<district key='宝应'></district>
+			<district key='仪征'></district>
+			<district key='高邮'></district>
+			<district key='江都'></district>
+		</city>
+		<city key='镇江'>
+			<district key='京口区'></district>
+			<district key='润州区'></district>
+			<district key='丹徒区'></district>
+			<district key='丹阳'></district>
+			<district key='扬中'></district>
+			<district key='句容'></district>
+		</city>
+		<city key='泰州'>
+			<district key='海陵区'></district>
+			<district key='高港区'></district>
+			<district key='兴化'></district>
+			<district key='靖江'></district>
+			<district key='泰兴'></district>
+			<district key='姜堰'></district>
+		</city>
+		<city key='宿迁'>
+			<district key='宿城区'></district>
+			<district key='宿豫区'></district>
+			<district key='沭阳'></district>
+			<district key='泗阳'></district>
+			<district key='泗洪'></district>
+		</city>
+	</prov>
+	<prov key='浙江'>
+		<city key='杭州'>
+			<district key='上城区'></district>
+			<district key='下城区'></district>
+			<district key='江干区'></district>
+			<district key='拱墅区'></district>
+			<district key='西湖区'></district>
+			<district key='滨江区'></district>
+			<district key='萧山区'></district>
+			<district key='余杭区'></district>
+			<district key='桐庐'></district>
+			<district key='淳安'></district>
+			<district key='建德'></district>
+			<district key='富阳'></district>
+			<district key='临安'></district>
+		</city>
+		<city key='宁波'>
+			<district key='海曙区'></district>
+			<district key='江东区'></district>
+			<district key='江北区'></district>
+			<district key='北仑区'></district>
+			<district key='镇海区'></district>
+			<district key='鄞州区'></district>
+			<district key='象山'></district>
+			<district key='宁海'></district>
+			<district key='余姚'></district>
+			<district key='慈溪'></district>
+			<district key='奉化'></district>
+		</city>
+		<city key='温州'>
+			<district key='鹿城区'></district>
+			<district key='龙湾区'></district>
+			<district key='瓯海区'></district>
+			<district key='洞头'></district>
+			<district key='永嘉'></district>
+			<district key='平阳'></district>
+			<district key='苍南'></district>
+			<district key='文成'></district>
+			<district key='泰顺'></district>
+			<district key='瑞安'></district>
+			<district key='乐清'></district>
+		</city>
+		<city key='嘉兴'>
+			<district key='秀城区'></district>
+			<district key='秀洲区'></district>
+			<district key='嘉善'></district>
+			<district key='海盐'></district>
+			<district key='海宁'></district>
+			<district key='平湖'></district>
+			<district key='桐乡'></district>
+		</city>
+		<city key='湖州'>
+			<district key='吴兴区'></district>
+			<district key='南浔区'></district>
+			<district key='德清'></district>
+			<district key='长兴'></district>
+			<district key='安吉'></district>
+		</city>
+		<city key='绍兴'>
+			<district key='越城区'></district>
+			<district key='绍兴'></district>
+			<district key='新昌'></district>
+			<district key='诸暨'></district>
+			<district key='上虞'></district>
+			<district key='嵊州'></district>
+		</city>
+		<city key='金华'>
+			<district key='婺城区'></district>
+			<district key='金东区'></district>
+			<district key='武义'></district>
+			<district key='浦江'></district>
+			<district key='磐安'></district>
+			<district key='兰溪'></district>
+			<district key='义乌'></district>
+			<district key='东阳'></district>
+			<district key='永康'></district>
+		</city>
+		<city key='衢州'>
+			<district key='柯城区'></district>
+			<district key='衢江区'></district>
+			<district key='常山'></district>
+			<district key='开化'></district>
+			<district key='龙游'></district>
+			<district key='江山'></district>
+		</city>
+		<city key='舟山'>
+			<district key='定海区'></district>
+			<district key='普陀区'></district>
+			<district key='岱山'></district>
+			<district key='嵊泗'></district>
+		</city>
+		<city key='台州'>
+			<district key='椒江区'></district>
+			<district key='黄岩区'></district>
+			<district key='路桥区'></district>
+			<district key='玉环'></district>
+			<district key='三门'></district>
+			<district key='天台'></district>
+			<district key='仙居'></district>
+			<district key='温岭'></district>
+			<district key='临海'></district>
+		</city>
+		<city key='丽水'>
+			<district key='莲都区'></district>
+			<district key='青田'></district>
+			<district key='缙云'></district>
+			<district key='遂昌'></district>
+			<district key='松阳'></district>
+			<district key='云和'></district>
+			<district key='庆元'></district>
+			<district key='景宁'></district>
+			<district key='龙泉'></district>
+		</city>
+	</prov>
+	<prov key='安徽'>
+		<city key='合肥'>
+			<district key='瑶海区'></district>
+			<district key='庐阳区'></district>
+			<district key='蜀山区'></district>
+			<district key='包河区'></district>
+			<district key='长丰'></district>
+			<district key='肥东'></district>
+			<district key='肥西'></district>
+		</city>
+		<city key='芜湖'>
+			<district key='镜湖区'></district>
+			<district key='马塘区'></district>
+			<district key='新芜区'></district>
+			<district key='鸠江区'></district>
+			<district key='芜湖'></district>
+			<district key='繁昌'></district>
+			<district key='南陵'></district>
+		</city>
+		<city key='蚌埠'>
+			<district key='龙子湖区'></district>
+			<district key='蚌山区'></district>
+			<district key='禹会区'></district>
+			<district key='淮上区'></district>
+			<district key='怀远'></district>
+			<district key='五河'></district>
+			<district key='固镇'></district>
+		</city>
+		<city key='淮南'>
+			<district key='大通区'></district>
+			<district key='田家庵区'></district>
+			<district key='谢家集区'></district>
+			<district key='八公山区'></district>
+			<district key='潘集区'></district>
+			<district key='凤台'></district>
+		</city>
+		<city key='马鞍山'>
+			<district key='金家庄区'></district>
+			<district key='花山区'></district>
+			<district key='雨山区'></district>
+			<district key='当涂'></district>
+		</city>
+		<city key='淮北'>
+			<district key='杜集区'></district>
+			<district key='相山区'></district>
+			<district key='烈山区'></district>
+			<district key='濉溪'></district>
+		</city>
+		<city key='铜陵'>
+			<district key='铜官山区'></district>
+			<district key='狮子山区'></district>
+			<district key='郊区'></district>
+			<district key='铜陵'></district>
+		</city>
+		<city key='安庆'>
+			<district key='迎江区'></district>
+			<district key='大观区'></district>
+			<district key='郊区'></district>
+			<district key='怀宁'></district>
+			<district key='枞阳'></district>
+			<district key='潜山'></district>
+			<district key='太湖'></district>
+			<district key='宿松'></district>
+			<district key='望江'></district>
+			<district key='岳西'></district>
+			<district key='桐城'></district>
+		</city>
+		<city key='黄山'>
+			<district key='屯溪区'></district>
+			<district key='黄山区'></district>
+			<district key='徽州区'></district>
+			<district key='歙县'></district>
+			<district key='休宁'></district>
+			<district key='黟县'></district>
+			<district key='祁门'></district>
+		</city>
+		<city key='滁州'>
+			<district key='琅琊区'></district>
+			<district key='南谯区'></district>
+			<district key='来安'></district>
+			<district key='全椒'></district>
+			<district key='定远'></district>
+			<district key='凤阳'></district>
+			<district key='天长'></district>
+			<district key='明光'></district>
+		</city>
+		<city key='阜阳'>
+			<district key='颍州区'></district>
+			<district key='颍东区'></district>
+			<district key='颍泉区'></district>
+			<district key='临泉'></district>
+			<district key='太和'></district>
+			<district key='阜南'></district>
+			<district key='颍上'></district>
+			<district key='界首'></district>
+		</city>
+		<city key='宿州'>
+			<district key='墉桥区'></district>
+			<district key='砀山'></district>
+			<district key='萧县'></district>
+			<district key='灵璧'></district>
+			<district key='泗县'></district>
+		</city>
+		<city key='巢湖'>
+			<district key='居巢区'></district>
+			<district key='庐江'></district>
+			<district key='无为'></district>
+			<district key='含山'></district>
+			<district key='和县'></district>
+		</city>
+		<city key='六安'>
+			<district key='金安区'></district>
+			<district key='裕安区'></district>
+			<district key='寿县'></district>
+			<district key='霍邱'></district>
+			<district key='舒城'></district>
+			<district key='金寨'></district>
+			<district key='霍山'></district>
+		</city>
+		<city key='亳州'>
+			<district key='谯城区'></district>
+			<district key='涡阳'></district>
+			<district key='蒙城'></district>
+			<district key='利辛'></district>
+		</city>
+		<city key='池州'>
+			<district key='贵池区'></district>
+			<district key='东至'></district>
+			<district key='石台'></district>
+			<district key='青阳'></district>
+		</city>
+		<city key='宣城'>
+			<district key='宣州区'></district>
+			<district key='郎溪'></district>
+			<district key='广德'></district>
+			<district key='泾县'></district>
+			<district key='绩溪'></district>
+			<district key='旌德'></district>
+			<district key='宁国'></district>
+		</city>
+	</prov>
+	<prov key='福建'>
+		<city key='福州'>
+			<district key='鼓楼区'></district>
+			<district key='台江区'></district>
+			<district key='仓山区'></district>
+			<district key='马尾区'></district>
+			<district key='晋安区'></district>
+			<district key='闽侯'></district>
+			<district key='连江'></district>
+			<district key='罗源'></district>
+			<district key='闽清'></district>
+			<district key='永泰'></district>
+			<district key='平潭'></district>
+			<district key='福清'></district>
+			<district key='长乐'></district>
+		</city>
+		<city key='厦门'>
+			<district key='思明区'></district>
+			<district key='海沧区'></district>
+			<district key='湖里区'></district>
+			<district key='集美区'></district>
+			<district key='同安区'></district>
+			<district key='翔安区'></district>
+		</city>
+		<city key='莆田'>
+			<district key='城厢区'></district>
+			<district key='涵江区'></district>
+			<district key='荔城区'></district>
+			<district key='秀屿区'></district>
+			<district key='仙游'></district>
+		</city>
+		<city key='三明'>
+			<district key='梅列区'></district>
+			<district key='三元区'></district>
+			<district key='明溪'></district>
+			<district key='清流'></district>
+			<district key='宁化'></district>
+			<district key='大田'></district>
+			<district key='尤溪'></district>
+			<district key='沙县'></district>
+			<district key='将乐'></district>
+			<district key='泰宁'></district>
+			<district key='建宁'></district>
+			<district key='永安'></district>
+		</city>
+		<city key='泉州'>
+			<district key='鲤城区'></district>
+			<district key='丰泽区'></district>
+			<district key='洛江区'></district>
+			<district key='泉港区'></district>
+			<district key='惠安'></district>
+			<district key='安溪'></district>
+			<district key='永春'></district>
+			<district key='德化'></district>
+			<district key='金门'></district>
+			<district key='石狮'></district>
+			<district key='晋江'></district>
+			<district key='南安'></district>
+		</city>
+		<city key='漳州'>
+			<district key='芗城区'></district>
+			<district key='龙文区'></district>
+			<district key='云霄'></district>
+			<district key='漳浦'></district>
+			<district key='诏安'></district>
+			<district key='长泰'></district>
+			<district key='东山'></district>
+			<district key='南靖'></district>
+			<district key='平和'></district>
+			<district key='华安'></district>
+			<district key='龙海'></district>
+		</city>
+		<city key='南平'>
+			<district key='延平区'></district>
+			<district key='顺昌'></district>
+			<district key='浦城'></district>
+			<district key='光泽'></district>
+			<district key='松溪'></district>
+			<district key='政和'></district>
+			<district key='邵武'></district>
+			<district key='武夷山'></district>
+			<district key='建瓯'></district>
+			<district key='建阳'></district>
+		</city>
+		<city key='龙岩'>
+			<district key='新罗区'></district>
+			<district key='长汀'></district>
+			<district key='永定'></district>
+			<district key='上杭'></district>
+			<district key='武平'></district>
+			<district key='连城'></district>
+			<district key='漳平'></district>
+		</city>
+		<city key='宁德'>
+			<district key='蕉城区'></district>
+			<district key='霞浦'></district>
+			<district key='古田'></district>
+			<district key='屏南'></district>
+			<district key='寿宁'></district>
+			<district key='周宁'></district>
+			<district key='柘荣'></district>
+			<district key='福安'></district>
+			<district key='福鼎'></district>
+		</city>
+	</prov>
+	<prov key='江西'>
+		<city key='南昌'>
+			<district key='东湖区'></district>
+			<district key='西湖区'></district>
+			<district key='青云谱区'></district>
+			<district key='湾里区'></district>
+			<district key='青山湖区'></district>
+			<district key='南昌'></district>
+			<district key='新建'></district>
+			<district key='安义'></district>
+			<district key='进贤'></district>
+		</city>
+		<city key='景德镇'>
+			<district key='昌江区'></district>
+			<district key='珠山区'></district>
+			<district key='浮梁'></district>
+			<district key='乐平'></district>
+		</city>
+		<city key='萍乡'>
+			<district key='安源区'></district>
+			<district key='湘东区'></district>
+			<district key='莲花'></district>
+			<district key='上栗'></district>
+			<district key='芦溪'></district>
+		</city>
+		<city key='九江'>
+			<district key='庐山区'></district>
+			<district key='浔阳区'></district>
+			<district key='九江'></district>
+			<district key='武宁'></district>
+			<district key='修水'></district>
+			<district key='永修'></district>
+			<district key='德安'></district>
+			<district key='星子'></district>
+			<district key='都昌'></district>
+			<district key='湖口'></district>
+			<district key='彭泽'></district>
+			<district key='瑞昌'></district>
+		</city>
+		<city key='新余'>
+			<district key='渝水区'></district>
+			<district key='分宜'></district>
+		</city>
+		<city key='鹰潭'>
+			<district key='月湖区'></district>
+			<district key='余江'></district>
+			<district key='贵溪'></district>
+		</city>
+		<city key='赣州'>
+			<district key='章贡区'></district>
+			<district key='赣县'></district>
+			<district key='信丰'></district>
+			<district key='大余'></district>
+			<district key='上犹'></district>
+			<district key='崇义'></district>
+			<district key='安远'></district>
+			<district key='龙南'></district>
+			<district key='定南'></district>
+			<district key='全南'></district>
+			<district key='宁都'></district>
+			<district key='于都'></district>
+			<district key='兴国'></district>
+			<district key='会昌'></district>
+			<district key='寻乌'></district>
+			<district key='石城'></district>
+			<district key='瑞金'></district>
+			<district key='南康'></district>
+		</city>
+		<city key='吉安'>
+			<district key='吉州区'></district>
+			<district key='青原区'></district>
+			<district key='吉安'></district>
+			<district key='吉水'></district>
+			<district key='峡江'></district>
+			<district key='新干'></district>
+			<district key='永丰'></district>
+			<district key='泰和'></district>
+			<district key='遂川'></district>
+			<district key='万安'></district>
+			<district key='安福'></district>
+			<district key='永新'></district>
+			<district key='井冈山'></district>
+		</city>
+		<city key='宜春'>
+			<district key='袁州区'></district>
+			<district key='奉新'></district>
+			<district key='万载'></district>
+			<district key='上高'></district>
+			<district key='宜丰'></district>
+			<district key='靖安'></district>
+			<district key='铜鼓'></district>
+			<district key='丰城'></district>
+			<district key='樟树'></district>
+			<district key='高安'></district>
+		</city>
+		<city key='抚州'>
+			<district key='临川区'></district>
+			<district key='南城'></district>
+			<district key='黎川'></district>
+			<district key='南丰'></district>
+			<district key='崇仁'></district>
+			<district key='乐安'></district>
+			<district key='宜黄'></district>
+			<district key='金溪'></district>
+			<district key='资溪'></district>
+			<district key='东乡'></district>
+			<district key='广昌'></district>
+		</city>
+		<city key='上饶'>
+			<district key='信州区'></district>
+			<district key='上饶'></district>
+			<district key='广丰'></district>
+			<district key='玉山'></district>
+			<district key='铅山'></district>
+			<district key='横峰'></district>
+			<district key='弋阳'></district>
+			<district key='余干'></district>
+			<district key='鄱阳'></district>
+			<district key='万年'></district>
+			<district key='婺源'></district>
+			<district key='德兴'></district>
+		</city>
+	</prov>
+	<prov key='山东'>
+		<city key='济南'>
+			<district key='历下区'></district>
+			<district key='中区'></district>
+			<district key='槐荫区'></district>
+			<district key='天桥区'></district>
+			<district key='历城区'></district>
+			<district key='长清区'></district>
+			<district key='平阴'></district>
+			<district key='济阳'></district>
+			<district key='商河'></district>
+			<district key='章丘'></district>
+		</city>
+		<city key='青岛'>
+			<district key='南区'></district>
+			<district key='北区'></district>
+			<district key='四方区'></district>
+			<district key='黄岛区'></district>
+			<district key='崂山区'></district>
+			<district key='李沧区'></district>
+			<district key='城阳区'></district>
+			<district key='胶州'></district>
+			<district key='即墨'></district>
+			<district key='平度'></district>
+			<district key='胶南'></district>
+			<district key='莱西'></district>
+		</city>
+		<city key='淄博'>
+			<district key='淄川区'></district>
+			<district key='张店区'></district>
+			<district key='博山区'></district>
+			<district key='临淄区'></district>
+			<district key='周村区'></district>
+			<district key='桓台'></district>
+			<district key='高青'></district>
+			<district key='沂源'></district>
+		</city>
+		<city key='枣庄'>
+			<district key='中区'></district>
+			<district key='薛城区'></district>
+			<district key='峄城区'></district>
+			<district key='台儿庄区'></district>
+			<district key='山亭区'></district>
+			<district key='滕州'></district>
+		</city>
+		<city key='东营'>
+			<district key='东营区'></district>
+			<district key='河口区'></district>
+			<district key='垦利'></district>
+			<district key='利津'></district>
+			<district key='广饶'></district>
+		</city>
+		<city key='烟台'>
+			<district key='芝罘区'></district>
+			<district key='福山区'></district>
+			<district key='牟平区'></district>
+			<district key='莱山区'></district>
+			<district key='长岛'></district>
+			<district key='龙口'></district>
+			<district key='莱阳'></district>
+			<district key='莱州'></district>
+			<district key='蓬莱'></district>
+			<district key='招远'></district>
+			<district key='栖霞'></district>
+			<district key='海阳'></district>
+		</city>
+		<city key='潍坊'>
+			<district key='潍城区'></district>
+			<district key='寒亭区'></district>
+			<district key='坊子区'></district>
+			<district key='奎文区'></district>
+			<district key='临朐'></district>
+			<district key='昌乐'></district>
+			<district key='青州'></district>
+			<district key='诸城'></district>
+			<district key='寿光'></district>
+			<district key='安丘'></district>
+			<district key='高密'></district>
+			<district key='昌邑'></district>
+		</city>
+		<city key='济宁'>
+			<district key='中区'></district>
+			<district key='任城区'></district>
+			<district key='微山'></district>
+			<district key='鱼台'></district>
+			<district key='金乡'></district>
+			<district key='嘉祥'></district>
+			<district key='汶上'></district>
+			<district key='泗水'></district>
+			<district key='梁山'></district>
+			<district key='曲阜'></district>
+			<district key='兖州'></district>
+			<district key='邹城'></district>
+		</city>
+		<city key='泰安'>
+			<district key='泰山区'></district>
+			<district key='岱岳区'></district>
+			<district key='宁阳'></district>
+			<district key='东平'></district>
+			<district key='新泰'></district>
+			<district key='肥城'></district>
+		</city>
+		<city key='威海'>
+			<district key='环翠区'></district>
+			<district key='文登'></district>
+			<district key='荣成'></district>
+			<district key='乳山'></district>
+		</city>
+		<city key='日照'>
+			<district key='东港区'></district>
+			<district key='岚山区'></district>
+			<district key='五莲'></district>
+			<district key='莒县'></district>
+		</city>
+		<city key='莱芜'>
+			<district key='莱城区'></district>
+			<district key='钢城区'></district>
+		</city>
+		<city key='临沂'>
+			<district key='兰山区'></district>
+			<district key='罗庄区'></district>
+			<district key='河东区'></district>
+			<district key='沂南'></district>
+			<district key='郯城'></district>
+			<district key='沂水'></district>
+			<district key='苍山'></district>
+			<district key='费县'></district>
+			<district key='平邑'></district>
+			<district key='莒南'></district>
+			<district key='蒙阴'></district>
+			<district key='临沭'></district>
+		</city>
+		<city key='德州'>
+			<district key='德城区'></district>
+			<district key='陵县'></district>
+			<district key='宁津'></district>
+			<district key='庆云'></district>
+			<district key='临邑'></district>
+			<district key='齐河'></district>
+			<district key='平原'></district>
+			<district key='夏津'></district>
+			<district key='武城'></district>
+			<district key='乐陵'></district>
+			<district key='禹城'></district>
+		</city>
+		<city key='聊城'>
+			<district key='东昌府区'></district>
+			<district key='阳谷'></district>
+			<district key='莘县'></district>
+			<district key='茌平'></district>
+			<district key='东阿'></district>
+			<district key='冠县'></district>
+			<district key='高唐'></district>
+			<district key='临清'></district>
+		</city>
+		<city key='滨州'>
+			<district key='滨城区'></district>
+			<district key='惠民'></district>
+			<district key='阳信'></district>
+			<district key='无棣'></district>
+			<district key='沾化'></district>
+			<district key='博兴'></district>
+			<district key='邹平'></district>
+		</city>
+		<city key='荷泽'>
+			<district key='牡丹区'></district>
+			<district key='曹县'></district>
+			<district key='单县'></district>
+			<district key='成武'></district>
+			<district key='巨野'></district>
+			<district key='郓城'></district>
+			<district key='鄄城'></district>
+			<district key='定陶'></district>
+			<district key='东明'></district>
+		</city>
+	</prov>
+	<prov key='河南'>
+		<city key='郑州'>
+			<district key='中原区'></district>
+			<district key='二七区'></district>
+			<district key='管城'></district>
+			<district key='金水区'></district>
+			<district key='上街区'></district>
+			<district key='邙山区'></district>
+			<district key='中牟'></district>
+			<district key='巩义'></district>
+			<district key='荥阳'></district>
+			<district key='新密'></district>
+			<district key='新郑'></district>
+			<district key='登封'></district>
+		</city>
+		<city key='开封'>
+			<district key='龙亭区'></district>
+			<district key='顺河回族区'></district>
+			<district key='鼓楼区'></district>
+			<district key='南关区'></district>
+			<district key='郊区'></district>
+			<district key='杞县'></district>
+			<district key='通许'></district>
+			<district key='尉氏'></district>
+			<district key='开封'></district>
+			<district key='兰考'></district>
+		</city>
+		<city key='洛阳'>
+			<district key='老城区'></district>
+			<district key='西工区'></district>
+			<district key='廛河回族区'></district>
+			<district key='涧西区'></district>
+			<district key='吉利区'></district>
+			<district key='洛龙区'></district>
+			<district key='孟津'></district>
+			<district key='新安'></district>
+			<district key='栾川'></district>
+			<district key='嵩县'></district>
+			<district key='汝阳'></district>
+			<district key='宜阳'></district>
+			<district key='洛宁'></district>
+			<district key='伊川'></district>
+			<district key='偃师'></district>
+		</city>
+		<city key='平顶山'>
+			<district key='新华区'></district>
+			<district key='卫东区'></district>
+			<district key='石龙区'></district>
+			<district key='湛河区'></district>
+			<district key='宝丰'></district>
+			<district key='叶县'></district>
+			<district key='鲁山'></district>
+			<district key='郏县'></district>
+			<district key='舞钢'></district>
+			<district key='汝州'></district>
+		</city>
+		<city key='安阳'>
+			<district key='文峰区'></district>
+			<district key='北关区'></district>
+			<district key='殷都区'></district>
+			<district key='龙安区'></district>
+			<district key='安阳'></district>
+			<district key='汤阴'></district>
+			<district key='滑县'></district>
+			<district key='内黄'></district>
+			<district key='林州'></district>
+		</city>
+		<city key='鹤壁'>
+			<district key='鹤山区'></district>
+			<district key='山城区'></district>
+			<district key='淇滨区'></district>
+			<district key='浚县'></district>
+			<district key='淇县'></district>
+		</city>
+		<city key='新乡'>
+			<district key='红旗区'></district>
+			<district key='卫滨区'></district>
+			<district key='凤泉区'></district>
+			<district key='牧野区'></district>
+			<district key='新乡'></district>
+			<district key='获嘉'></district>
+			<district key='原阳'></district>
+			<district key='延津'></district>
+			<district key='封丘'></district>
+			<district key='长垣'></district>
+			<district key='卫辉'></district>
+			<district key='辉县市'></district>
+		</city>
+		<city key='焦作'>
+			<district key='解放区'></district>
+			<district key='中站区'></district>
+			<district key='马村区'></district>
+			<district key='山阳区'></district>
+			<district key='修武'></district>
+			<district key='博爱'></district>
+			<district key='武陟'></district>
+			<district key='温县'></district>
+			<district key='济源'></district>
+			<district key='沁阳'></district>
+			<district key='孟州'></district>
+		</city>
+		<city key='濮阳'>
+			<district key='华龙区'></district>
+			<district key='清丰'></district>
+			<district key='南乐'></district>
+			<district key='范县'></district>
+			<district key='台前'></district>
+			<district key='濮阳'></district>
+		</city>
+		<city key='许昌'>
+			<district key='魏都区'></district>
+			<district key='许昌'></district>
+			<district key='鄢陵'></district>
+			<district key='襄城'></district>
+			<district key='禹州'></district>
+			<district key='长葛'></district>
+		</city>
+		<city key='漯河'>
+			<district key='源汇区'></district>
+			<district key='郾城区'></district>
+			<district key='召陵区'></district>
+			<district key='舞阳'></district>
+			<district key='临颍'></district>
+		</city>
+		<city key='三门峡'>
+			<district key='湖滨区'></district>
+			<district key='渑池'></district>
+			<district key='陕县'></district>
+			<district key='卢氏'></district>
+			<district key='义马'></district>
+			<district key='灵宝'></district>
+		</city>
+		<city key='南阳'>
+			<district key='宛城区'></district>
+			<district key='卧龙区'></district>
+			<district key='南召'></district>
+			<district key='方城'></district>
+			<district key='西峡'></district>
+			<district key='镇平'></district>
+			<district key='内乡'></district>
+			<district key='淅川'></district>
+			<district key='社旗'></district>
+			<district key='唐河'></district>
+			<district key='新野'></district>
+			<district key='桐柏'></district>
+			<district key='邓州'></district>
+		</city>
+		<city key='商丘'>
+			<district key='梁园区'></district>
+			<district key='睢阳区'></district>
+			<district key='民权'></district>
+			<district key='睢县'></district>
+			<district key='宁陵'></district>
+			<district key='柘城'></district>
+			<district key='虞城'></district>
+			<district key='夏邑'></district>
+			<district key='永城'></district>
+		</city>
+		<city key='信阳'>
+			<district key='师河区'></district>
+			<district key='平桥区'></district>
+			<district key='罗山'></district>
+			<district key='光山'></district>
+			<district key='新县'></district>
+			<district key='商城'></district>
+			<district key='固始'></district>
+			<district key='潢川'></district>
+			<district key='淮滨'></district>
+			<district key='息县'></district>
+		</city>
+		<city key='周口'>
+			<district key='川汇区'></district>
+			<district key='扶沟'></district>
+			<district key='西华'></district>
+			<district key='商水'></district>
+			<district key='沈丘'></district>
+			<district key='郸城'></district>
+			<district key='淮阳'></district>
+			<district key='太康'></district>
+			<district key='鹿邑'></district>
+			<district key='项城'></district>
+		</city>
+		<city key='驻马店'>
+			<district key='驿城区'></district>
+			<district key='西平'></district>
+			<district key='上蔡'></district>
+			<district key='平舆'></district>
+			<district key='正阳'></district>
+			<district key='确山'></district>
+			<district key='泌阳'></district>
+			<district key='汝南'></district>
+			<district key='遂平'></district>
+			<district key='新蔡'></district>
+		</city>
+	</prov>
+	<prov key='湖北'>
+		<city key='武汉'>
+			<district key='江岸区'></district>
+			<district key='江汉区'></district>
+			<district key='乔口区'></district>
+			<district key='汉阳区'></district>
+			<district key='武昌区'></district>
+			<district key='青山区'></district>
+			<district key='洪山区'></district>
+			<district key='东西湖区'></district>
+			<district key='汉南区'></district>
+			<district key='蔡甸区'></district>
+			<district key='江夏区'></district>
+			<district key='黄陂区'></district>
+			<district key='新洲区'></district>
+		</city>
+		<city key='黄石'>
+			<district key='黄石港区'></district>
+			<district key='西塞山区'></district>
+			<district key='下陆区'></district>
+			<district key='铁山区'></district>
+			<district key='阳新'></district>
+			<district key='大冶'></district>
+		</city>
+		<city key='十堰'>
+			<district key='茅箭区'></district>
+			<district key='张湾区'></district>
+			<district key='郧县'></district>
+			<district key='郧西'></district>
+			<district key='竹山'></district>
+			<district key='竹溪'></district>
+			<district key='房县'></district>
+			<district key='丹江口'></district>
+		</city>
+		<city key='宜昌'>
+			<district key='西陵区'></district>
+			<district key='伍家岗区'></district>
+			<district key='点军区'></district>
+			<district key='猇亭区'></district>
+			<district key='夷陵区'></district>
+			<district key='远安'></district>
+			<district key='兴山'></district>
+			<district key='秭归'></district>
+			<district key='长阳'></district>
+			<district key='五峰'></district>
+			<district key='宜都'></district>
+			<district key='当阳'></district>
+			<district key='枝江'></district>
+		</city>
+		<city key='襄樊'>
+			<district key='襄城区'></district>
+			<district key='樊城区'></district>
+			<district key='襄阳区'></district>
+			<district key='南漳'></district>
+			<district key='谷城'></district>
+			<district key='保康'></district>
+			<district key='老河口'></district>
+			<district key='枣阳'></district>
+			<district key='宜城'></district>
+		</city>
+		<city key='鄂州'>
+			<district key='梁子湖区'></district>
+			<district key='华容区'></district>
+			<district key='鄂城区'></district>
+		</city>
+		<city key='荆门'>
+			<district key='东宝区'></district>
+			<district key='掇刀区'></district>
+			<district key='京山'></district>
+			<district key='沙洋'></district>
+			<district key='钟祥'></district>
+		</city>
+		<city key='潜江'>
+			<district key='孝南区'></district>
+			<district key='孝昌'></district>
+			<district key='大悟'></district>
+			<district key='云梦'></district>
+			<district key='应城'></district>
+			<district key='安陆'></district>
+			<district key='汉川'></district>
+		</city>
+		<city key='荆州'>
+			<district key='沙市区'></district>
+			<district key='荆州区'></district>
+			<district key='公安'></district>
+			<district key='监利'></district>
+			<district key='江陵'></district>
+			<district key='石首'></district>
+			<district key='洪湖'></district>
+			<district key='松滋'></district>
+		</city>
+		<city key='黄冈'>
+			<district key='黄州区'></district>
+			<district key='团风'></district>
+			<district key='红安'></district>
+			<district key='罗田'></district>
+			<district key='英山'></district>
+			<district key='浠水'></district>
+			<district key='蕲春'></district>
+			<district key='黄梅'></district>
+			<district key='麻城'></district>
+			<district key='武穴'></district>
+		</city>
+		<city key='咸宁'>
+			<district key='咸安区'></district>
+			<district key='嘉鱼'></district>
+			<district key='通城'></district>
+			<district key='崇阳'></district>
+			<district key='通山'></district>
+			<district key='赤壁'></district>
+		</city>
+		<city key='随州'>
+			<district key='曾都区'></district>
+			<district key='广水'></district>
+		</city>
+		<city key='恩施'>
+			<district key='恩施'></district>
+			<district key='利川'></district>
+			<district key='建始'></district>
+			<district key='巴东'></district>
+			<district key='宣恩'></district>
+			<district key='咸丰'></district>
+			<district key='来凤'></district>
+			<district key='鹤峰'></district>
+		</city>
+		<city key='仙桃'></city>
+		<city key='天门'></city>
+		<city key='神农架林区'></city>
+		<city key='孝感'>
+			<district key='孝南区'></district>
+			<district key='应城'></district>
+			<district key='汉川'></district>
+			<district key='安陆'></district>
+			<district key='大悟'></district>
+			<district key='云梦'></district>
+			<district key='孝昌'></district>
+		</city>
+	</prov>
+	<prov key='湖南'>
+		<city key='长沙'>
+			<district key='芙蓉区'></district>
+			<district key='天心区'></district>
+			<district key='岳麓区'></district>
+			<district key='开福区'></district>
+			<district key='雨花区'></district>
+			<district key='长沙'></district>
+			<district key='望城'></district>
+			<district key='宁乡'></district>
+			<district key='浏阳'></district>
+		</city>
+		<city key='株洲'>
+			<district key='荷塘区'></district>
+			<district key='芦淞区'></district>
+			<district key='石峰区'></district>
+			<district key='天元区'></district>
+			<district key='株洲'></district>
+			<district key='攸县'></district>
+			<district key='茶陵'></district>
+			<district key='炎陵'></district>
+			<district key='醴陵'></district>
+		</city>
+		<city key='湘潭'>
+			<district key='雨湖区'></district>
+			<district key='岳塘区'></district>
+			<district key='湘潭'></district>
+			<district key='湘乡'></district>
+			<district key='韶山'></district>
+		</city>
+		<city key='衡阳'>
+			<district key='珠晖区'></district>
+			<district key='雁峰区'></district>
+			<district key='石鼓区'></district>
+			<district key='蒸湘区'></district>
+			<district key='南岳区'></district>
+			<district key='衡阳'></district>
+			<district key='衡南'></district>
+			<district key='衡山'></district>
+			<district key='衡东'></district>
+			<district key='祁东'></district>
+			<district key='耒阳'></district>
+			<district key='常宁'></district>
+		</city>
+		<city key='邵阳'>
+			<district key='双清区'></district>
+			<district key='大祥区'></district>
+			<district key='北塔区'></district>
+			<district key='邵东'></district>
+			<district key='新邵'></district>
+			<district key='邵阳'></district>
+			<district key='隆回'></district>
+			<district key='洞口'></district>
+			<district key='绥宁'></district>
+			<district key='新宁'></district>
+			<district key='城步'></district>
+			<district key='武冈'></district>
+		</city>
+		<city key='岳阳'>
+			<district key='岳阳楼区'></district>
+			<district key='云溪区'></district>
+			<district key='君山区'></district>
+			<district key='岳阳'></district>
+			<district key='华容'></district>
+			<district key='湘阴'></district>
+			<district key='平江'></district>
+			<district key='汨罗'></district>
+			<district key='临湘'></district>
+		</city>
+		<city key='常德'>
+			<district key='武陵区'></district>
+			<district key='鼎城区'></district>
+			<district key='安乡'></district>
+			<district key='汉寿'></district>
+			<district key='澧县'></district>
+			<district key='临澧'></district>
+			<district key='桃源'></district>
+			<district key='石门'></district>
+			<district key='津市市'></district>
+		</city>
+		<city key='张家界'>
+			<district key='永定区'></district>
+			<district key='武陵源区'></district>
+			<district key='慈利'></district>
+			<district key='桑植'></district>
+		</city>
+		<city key='益阳'>
+			<district key='资阳区'></district>
+			<district key='赫山区'></district>
+			<district key='南县'></district>
+			<district key='桃江'></district>
+			<district key='安化'></district>
+			<district key='沅江'></district>
+		</city>
+		<city key='郴州'>
+			<district key='北湖区'></district>
+			<district key='苏仙区'></district>
+			<district key='桂阳'></district>
+			<district key='宜章'></district>
+			<district key='永兴'></district>
+			<district key='嘉禾'></district>
+			<district key='临武'></district>
+			<district key='汝城'></district>
+			<district key='桂东'></district>
+			<district key='安仁'></district>
+			<district key='资兴'></district>
+		</city>
+		<city key='永州'>
+			<district key='芝山区'></district>
+			<district key='冷水滩区'></district>
+			<district key='祁阳'></district>
+			<district key='东安'></district>
+			<district key='双牌'></district>
+			<district key='道县'></district>
+			<district key='江永'></district>
+			<district key='宁远'></district>
+			<district key='蓝山'></district>
+			<district key='新田'></district>
+			<district key='江华'></district>
+		</city>
+		<city key='怀化'>
+			<district key='鹤城区'></district>
+			<district key='中方'></district>
+			<district key='沅陵'></district>
+			<district key='辰溪'></district>
+			<district key='溆浦'></district>
+			<district key='会同'></district>
+			<district key='麻阳'></district>
+			<district key='新晃'></district>
+			<district key='芷江'></district>
+			<district key='靖州'></district>
+			<district key='通道'></district>
+			<district key='洪江'></district>
+		</city>
+		<city key='娄底'>
+			<district key='娄星区'></district>
+			<district key='双峰'></district>
+			<district key='新化'></district>
+			<district key='冷水江'></district>
+			<district key='涟源'></district>
+		</city>
+		<city key='湘西'>
+			<district key='吉首'></district>
+			<district key='泸溪'></district>
+			<district key='凤凰'></district>
+			<district key='花垣'></district>
+			<district key='保靖'></district>
+			<district key='古丈'></district>
+			<district key='永顺'></district>
+			<district key='龙山'></district>
+		</city>
+	</prov>
+	<prov key='广东'>
+		<city key='广州'>
+			<district key='东山区'></district>
+			<district key='荔湾区'></district>
+			<district key='越秀区'></district>
+			<district key='海珠区'></district>
+			<district key='天河区'></district>
+			<district key='芳村区'></district>
+			<district key='白云区'></district>
+			<district key='黄埔区'></district>
+			<district key='番禺区'></district>
+			<district key='花都区'></district>
+			<district key='增城'></district>
+			<district key='从化'></district>
+		</city>
+		<city key='韶关'>
+			<district key='武江区'></district>
+			<district key='浈江区'></district>
+			<district key='曲江区'></district>
+			<district key='始兴'></district>
+			<district key='仁化'></district>
+			<district key='翁源'></district>
+			<district key='乳源'></district>
+			<district key='新丰'></district>
+			<district key='乐昌'></district>
+			<district key='南雄'></district>
+		</city>
+		<city key='深圳'>
+			<district key='罗湖区'></district>
+			<district key='福田区'></district>
+			<district key='南山区'></district>
+			<district key='宝安区'></district>
+			<district key='龙岗区'></district>
+			<district key='盐田区'></district>
+		</city>
+		<city key='珠海'>
+			<district key='香洲区'></district>
+			<district key='斗门区'></district>
+			<district key='金湾区'></district>
+		</city>
+		<city key='汕头'>
+			<district key='龙湖区'></district>
+			<district key='金平区'></district>
+			<district key='濠江区'></district>
+			<district key='潮阳区'></district>
+			<district key='潮南区'></district>
+			<district key='澄海区'></district>
+			<district key='南澳'></district>
+		</city>
+		<city key='佛山'>
+			<district key='禅城区'></district>
+			<district key='南海区'></district>
+			<district key='顺德区'></district>
+			<district key='三水区'></district>
+			<district key='高明区'></district>
+		</city>
+		<city key='江门'>
+			<district key='蓬江区'></district>
+			<district key='江海区'></district>
+			<district key='新会区'></district>
+			<district key='台山'></district>
+			<district key='开平'></district>
+			<district key='鹤山'></district>
+			<district key='恩平'></district>
+		</city>
+		<city key='湛江'>
+			<district key='赤坎区'></district>
+			<district key='霞山区'></district>
+			<district key='坡头区'></district>
+			<district key='麻章区'></district>
+			<district key='遂溪'></district>
+			<district key='徐闻'></district>
+			<district key='廉江'></district>
+			<district key='雷州'></district>
+			<district key='吴川'></district>
+		</city>
+		<city key='茂名'>
+			<district key='茂南区'></district>
+			<district key='茂港区'></district>
+			<district key='电白'></district>
+			<district key='高州'></district>
+			<district key='化州'></district>
+			<district key='信宜'></district>
+		</city>
+		<city key='肇庆'>
+			<district key='端州区'></district>
+			<district key='鼎湖区'></district>
+			<district key='广宁'></district>
+			<district key='怀集'></district>
+			<district key='封开'></district>
+			<district key='德庆'></district>
+			<district key='高要'></district>
+			<district key='四会'></district>
+		</city>
+		<city key='惠州'>
+			<district key='惠城区'></district>
+			<district key='惠阳区'></district>
+			<district key='博罗'></district>
+			<district key='惠东'></district>
+			<district key='龙门'></district>
+		</city>
+		<city key='梅州'>
+			<district key='梅江区'></district>
+			<district key='梅县'></district>
+			<district key='大埔'></district>
+			<district key='丰顺'></district>
+			<district key='五华'></district>
+			<district key='平远'></district>
+			<district key='蕉岭'></district>
+			<district key='兴宁'></district>
+		</city>
+		<city key='汕尾'>
+			<district key='城区'></district>
+			<district key='海丰'></district>
+			<district key='陆河'></district>
+			<district key='陆丰'></district>
+		</city>
+		<city key='河源'>
+			<district key='源城区'></district>
+			<district key='紫金'></district>
+			<district key='龙川'></district>
+			<district key='连平'></district>
+			<district key='和平'></district>
+			<district key='东源'></district>
+		</city>
+		<city key='阳江'>
+			<district key='江城区'></district>
+			<district key='阳西'></district>
+			<district key='阳东'></district>
+			<district key='阳春'></district>
+		</city>
+		<city key='清远'>
+			<district key='清城区'></district>
+			<district key='佛冈'></district>
+			<district key='阳山'></district>
+			<district key='连山'></district>
+			<district key='连南'></district>
+			<district key='清新'></district>
+			<district key='英德'></district>
+			<district key='连州'></district>
+		</city>
+		<city key='东莞'></city>
+		<city key='中山'></city>
+		<city key='潮州'>
+			<district key='湘桥区'></district>
+			<district key='潮安'></district>
+			<district key='饶平'></district>
+		</city>
+		<city key='揭阳'>
+			<district key='榕城区'></district>
+			<district key='揭东'></district>
+			<district key='揭西'></district>
+			<district key='惠来'></district>
+			<district key='普宁'></district>
+		</city>
+		<city key='云浮'>
+			<district key='云城区'></district>
+			<district key='新兴'></district>
+			<district key='郁南'></district>
+			<district key='云安'></district>
+			<district key='罗定'></district>
+		</city>
+	</prov>
+	<prov key='广西'>
+		<city key='南宁'>
+			<district key='兴宁区'></district>
+			<district key='青秀区'></district>
+			<district key='江南区'></district>
+			<district key='西乡塘区'></district>
+			<district key='良庆区'></district>
+			<district key='邕宁区'></district>
+			<district key='武鸣'></district>
+			<district key='隆安'></district>
+			<district key='马山'></district>
+			<district key='上林'></district>
+			<district key='宾阳'></district>
+			<district key='横县'></district>
+		</city>
+		<city key='柳州'>
+			<district key='城中区'></district>
+			<district key='鱼峰区'></district>
+			<district key='柳南区'></district>
+			<district key='柳北区'></district>
+			<district key='柳江'></district>
+			<district key='柳城'></district>
+			<district key='鹿寨'></district>
+			<district key='融安'></district>
+			<district key='融水'></district>
+			<district key='三江'></district>
+		</city>
+		<city key='桂林'>
+			<district key='秀峰区'></district>
+			<district key='叠彩区'></district>
+			<district key='象山区'></district>
+			<district key='七星区'></district>
+			<district key='雁山区'></district>
+			<district key='阳朔'></district>
+			<district key='临桂'></district>
+			<district key='灵川'></district>
+			<district key='全州'></district>
+			<district key='兴安'></district>
+			<district key='永福'></district>
+			<district key='灌阳'></district>
+			<district key='龙胜'></district>
+			<district key='资源'></district>
+			<district key='平乐'></district>
+			<district key='荔蒲'></district>
+			<district key='恭城'></district>
+		</city>
+		<city key='梧州'>
+			<district key='万秀区'></district>
+			<district key='蝶山区'></district>
+			<district key='长洲区'></district>
+			<district key='苍梧'></district>
+			<district key='藤县'></district>
+			<district key='蒙山'></district>
+			<district key='岑溪'></district>
+		</city>
+		<city key='北海'>
+			<district key='海城区'></district>
+			<district key='银海区'></district>
+			<district key='铁山港区'></district>
+			<district key='合浦'></district>
+		</city>
+		<city key='防城港'>
+			<district key='港口区'></district>
+			<district key='防城区'></district>
+			<district key='上思'></district>
+			<district key='东兴'></district>
+		</city>
+		<city key='钦州'>
+			<district key='钦南区'></district>
+			<district key='钦北区'></district>
+			<district key='灵山'></district>
+			<district key='浦北'></district>
+		</city>
+		<city key='贵港'>
+			<district key='港北区'></district>
+			<district key='港南区'></district>
+			<district key='覃塘区'></district>
+			<district key='平南'></district>
+			<district key='桂平'></district>
+		</city>
+		<city key='玉林'>
+			<district key='玉州区'></district>
+			<district key='容县'></district>
+			<district key='陆川'></district>
+			<district key='博白'></district>
+			<district key='兴业'></district>
+			<district key='北流'></district>
+		</city>
+		<city key='百色'>
+			<district key='右江区'></district>
+			<district key='田阳'></district>
+			<district key='田东'></district>
+			<district key='平果'></district>
+			<district key='德保'></district>
+			<district key='靖西'></district>
+			<district key='那坡'></district>
+			<district key='凌云'></district>
+			<district key='乐业'></district>
+			<district key='田林'></district>
+			<district key='西林'></district>
+			<district key='隆林'></district>
+		</city>
+		<city key='贺州'>
+			<district key='八步区'></district>
+			<district key='昭平'></district>
+			<district key='钟山'></district>
+			<district key='富川'></district>
+		</city>
+		<city key='河池'>
+			<district key='金城江区'></district>
+			<district key='南丹'></district>
+			<district key='天峨'></district>
+			<district key='凤山'></district>
+			<district key='东兰'></district>
+			<district key='罗城'></district>
+			<district key='环江'></district>
+			<district key='巴马'></district>
+			<district key='都安'></district>
+			<district key='大化'></district>
+			<district key='宜州'></district>
+		</city>
+		<city key='来宾'>
+			<district key='兴宾区'></district>
+			<district key='忻城'></district>
+			<district key='象州'></district>
+			<district key='武宣'></district>
+			<district key='金秀'></district>
+			<district key='合山'></district>
+		</city>
+		<city key='崇左'>
+			<district key='江洲区'></district>
+			<district key='扶绥'></district>
+			<district key='宁明'></district>
+			<district key='龙州'></district>
+			<district key='大新'></district>
+			<district key='天等'></district>
+			<district key='凭祥'></district>
+		</city>
+	</prov>
+	<prov key='海南'>
+		<city key='海口'>
+			<district key='秀英区'></district>
+			<district key='龙华区'></district>
+			<district key='琼山区'></district>
+			<district key='美兰区'></district>
+		</city>
+		<city key='三亚'></city>
+		<city key='五指山'></city>
+		<city key='琼海'></city>
+		<city key='儋州'></city>
+		<city key='文昌'></city>
+		<city key='万宁'></city>
+		<city key='东方'></city>
+		<city key='定安'></city>
+		<city key='屯昌'></city>
+		<city key='澄迈'></city>
+		<city key='临高'></city>
+		<city key='白沙'></city>
+		<city key='昌江'></city>
+		<city key='乐东'></city>
+		<city key='陵水'></city>
+		<city key='保亭'></city>
+		<city key='琼中'></city>
+		<city key='西沙群岛'></city>
+		<city key='南沙群岛'></city>
+		<city key='中沙群岛的岛礁及其海域'></city>
+	</prov>
+	<prov key='重庆'>
+		<city key='万州区'></city>
+		<city key='涪陵区'></city>
+		<city key='渝中区'></city>
+		<city key='大渡口区'></city>
+		<city key='江北区'></city>
+		<city key='沙坪坝区'></city>
+		<city key='九龙坡区'></city>
+		<city key='南岸区'></city>
+		<city key='北碚区'></city>
+		<city key='万盛区'></city>
+		<city key='双桥区'></city>
+		<city key='渝北区'></city>
+		<city key='巴南区'></city>
+		<city key='黔江区'></city>
+		<city key='长寿'></city>
+		<city key='綦江'></city>
+		<city key='潼南'></city>
+		<city key='铜梁'></city>
+		<city key='大足'></city>
+		<city key='荣昌'></city>
+		<city key='璧山'></city>
+		<city key='梁平'></city>
+		<city key='城口'></city>
+		<city key='丰都'></city>
+		<city key='垫江'></city>
+		<city key='武隆'></city>
+		<city key='忠县'></city>
+		<city key='开县'></city>
+		<city key='云阳'></city>
+		<city key='奉节'></city>
+		<city key='巫山'></city>
+		<city key='巫溪'></city>
+		<city key='石柱'></city>
+		<city key='秀山'></city>
+		<city key='酉阳'></city>
+		<city key='彭水'></city>
+		<city key='江津'></city>
+		<city key='合川'></city>
+		<city key='永川'></city>
+		<city key='南川'></city>
+	</prov>
+	<prov key='四川'>
+		<city key='成都'>
+			<district key='锦江区'></district>
+			<district key='青羊区'></district>
+			<district key='金牛区'></district>
+			<district key='武侯区'></district>
+			<district key='成华区'></district>
+			<district key='龙泉驿区'></district>
+			<district key='青白江区'></district>
+			<district key='新都区'></district>
+			<district key='温江区'></district>
+			<district key='金堂'></district>
+			<district key='双流'></district>
+			<district key='郫县'></district>
+			<district key='大邑'></district>
+			<district key='蒲江'></district>
+			<district key='新津'></district>
+			<district key='都江堰'></district>
+			<district key='彭州'></district>
+			<district key='邛崃'></district>
+			<district key='崇州'></district>
+		</city>
+		<city key='自贡'>
+			<district key='自流井区'></district>
+			<district key='贡井区'></district>
+			<district key='大安区'></district>
+			<district key='沿滩区'></district>
+			<district key='荣县'></district>
+			<district key='富顺'></district>
+		</city>
+		<city key='攀枝花'>
+			<district key='东区'></district>
+			<district key='西区'></district>
+			<district key='仁和区'></district>
+			<district key='米易'></district>
+			<district key='盐边'></district>
+		</city>
+		<city key='泸州'>
+			<district key='江阳区'></district>
+			<district key='纳溪区'></district>
+			<district key='龙马潭区'></district>
+			<district key='泸县'></district>
+			<district key='合江'></district>
+			<district key='叙永'></district>
+			<district key='古蔺'></district>
+		</city>
+		<city key='德阳'>
+			<district key='旌阳区'></district>
+			<district key='中江'></district>
+			<district key='罗江'></district>
+			<district key='广汉'></district>
+			<district key='什邡'></district>
+			<district key='绵竹'></district>
+		</city>
+		<city key='绵阳'>
+			<district key='涪城区'></district>
+			<district key='游仙区'></district>
+			<district key='三台'></district>
+			<district key='盐亭'></district>
+			<district key='安县'></district>
+			<district key='梓潼'></district>
+			<district key='北川'></district>
+			<district key='平武'></district>
+			<district key='江油'></district>
+		</city>
+		<city key='广元'>
+			<district key='中区'></district>
+			<district key='元坝区'></district>
+			<district key='朝天区'></district>
+			<district key='旺苍'></district>
+			<district key='青川'></district>
+			<district key='剑阁'></district>
+			<district key='苍溪'></district>
+		</city>
+		<city key='遂宁'>
+			<district key='船山区'></district>
+			<district key='安居区'></district>
+			<district key='蓬溪'></district>
+			<district key='射洪'></district>
+			<district key='大英'></district>
+		</city>
+		<city key='内江'>
+			<district key='中区'></district>
+			<district key='东兴区'></district>
+			<district key='威远'></district>
+			<district key='资中'></district>
+			<district key='隆昌'></district>
+		</city>
+		<city key='乐山'>
+			<district key='中区'></district>
+			<district key='沙湾区'></district>
+			<district key='五通桥区'></district>
+			<district key='金口河区'></district>
+			<district key='犍为'></district>
+			<district key='井研'></district>
+			<district key='夹江'></district>
+			<district key='沐川'></district>
+			<district key='峨边'></district>
+			<district key='马边'></district>
+			<district key='峨眉山'></district>
+		</city>
+		<city key='南充'>
+			<district key='顺庆区'></district>
+			<district key='高坪区'></district>
+			<district key='嘉陵区'></district>
+			<district key='南部'></district>
+			<district key='营山'></district>
+			<district key='蓬安'></district>
+			<district key='仪陇'></district>
+			<district key='西充'></district>
+			<district key='阆中'></district>
+		</city>
+		<city key='眉山'>
+			<district key='东坡区'></district>
+			<district key='仁寿'></district>
+			<district key='彭山'></district>
+			<district key='洪雅'></district>
+			<district key='丹棱'></district>
+			<district key='青神'></district>
+		</city>
+		<city key='宜宾'>
+			<district key='翠屏区'></district>
+			<district key='宜宾'></district>
+			<district key='南溪'></district>
+			<district key='江安'></district>
+			<district key='长宁'></district>
+			<district key='高县'></district>
+			<district key='珙县'></district>
+			<district key='筠连'></district>
+			<district key='兴文'></district>
+			<district key='屏山'></district>
+		</city>
+		<city key='广安'>
+			<district key='广安区'></district>
+			<district key='岳池'></district>
+			<district key='武胜'></district>
+			<district key='邻水'></district>
+			<district key='华莹'></district>
+		</city>
+		<city key='达州'>
+			<district key='通川区'></district>
+			<district key='达县'></district>
+			<district key='宣汉'></district>
+			<district key='开江'></district>
+			<district key='大竹'></district>
+			<district key='渠县'></district>
+			<district key='万源'></district>
+		</city>
+		<city key='雅安'>
+			<district key='雨城区'></district>
+			<district key='名山'></district>
+			<district key='荥经'></district>
+			<district key='汉源'></district>
+			<district key='石棉'></district>
+			<district key='天全'></district>
+			<district key='芦山'></district>
+			<district key='宝兴'></district>
+		</city>
+		<city key='巴中'>
+			<district key='巴州区'></district>
+			<district key='通江'></district>
+			<district key='南江'></district>
+			<district key='平昌'></district>
+		</city>
+		<city key='资阳'>
+			<district key='雁江区'></district>
+			<district key='安岳'></district>
+			<district key='乐至'></district>
+			<district key='简阳'></district>
+		</city>
+		<city key='阿坝'>
+			<district key='汶川'></district>
+			<district key='理县'></district>
+			<district key='茂县'></district>
+			<district key='松潘'></district>
+			<district key='九寨沟'></district>
+			<district key='金川'></district>
+			<district key='小金'></district>
+			<district key='黑水'></district>
+			<district key='马尔康'></district>
+			<district key='壤塘'></district>
+			<district key='阿坝'></district>
+			<district key='若尔盖'></district>
+			<district key='红原'></district>
+		</city>
+		<city key='甘孜'>
+			<district key='康定'></district>
+			<district key='泸定'></district>
+			<district key='丹巴'></district>
+			<district key='九龙'></district>
+			<district key='雅江'></district>
+			<district key='道孚'></district>
+			<district key='炉霍'></district>
+			<district key='甘孜'></district>
+			<district key='新龙'></district>
+			<district key='德格'></district>
+			<district key='白玉'></district>
+			<district key='石渠'></district>
+			<district key='色达'></district>
+			<district key='理塘'></district>
+			<district key='巴塘'></district>
+			<district key='乡城'></district>
+			<district key='稻城'></district>
+			<district key='得荣'></district>
+		</city>
+		<city key='凉山'>
+			<district key='西昌'></district>
+			<district key='木里'></district>
+			<district key='盐源'></district>
+			<district key='德昌'></district>
+			<district key='会理'></district>
+			<district key='会东'></district>
+			<district key='宁南'></district>
+			<district key='普格'></district>
+			<district key='布拖'></district>
+			<district key='金阳'></district>
+			<district key='昭觉'></district>
+			<district key='喜德'></district>
+			<district key='冕宁'></district>
+			<district key='越西'></district>
+			<district key='甘洛'></district>
+			<district key='美姑'></district>
+			<district key='雷波'></district>
+		</city>
+	</prov>
+	<prov key='贵州'>
+		<city key='贵阳'>
+			<district key='南明区'></district>
+			<district key='云岩区'></district>
+			<district key='花溪区'></district>
+			<district key='乌当区'></district>
+			<district key='白云区'></district>
+			<district key='小河区'></district>
+			<district key='开阳'></district>
+			<district key='息烽'></district>
+			<district key='修文'></district>
+			<district key='清镇'></district>
+		</city>
+		<city key='六盘水'>
+			<district key='钟山区'></district>
+			<district key='六枝特区'></district>
+			<district key='水城'></district>
+			<district key='盘县'></district>
+		</city>
+		<city key='遵义'>
+			<district key='红花岗区'></district>
+			<district key='汇川区'></district>
+			<district key='遵义'></district>
+			<district key='桐梓'></district>
+			<district key='绥阳'></district>
+			<district key='正安'></district>
+			<district key='道真'></district>
+			<district key='务川'></district>
+			<district key='凤冈'></district>
+			<district key='湄潭'></district>
+			<district key='余庆'></district>
+			<district key='习水'></district>
+			<district key='赤水'></district>
+			<district key='仁怀'></district>
+		</city>
+		<city key='安顺'>
+			<district key='西秀区'></district>
+			<district key='平坝'></district>
+			<district key='普定'></district>
+			<district key='镇宁'></district>
+			<district key='关岭'></district>
+			<district key='紫云'></district>
+		</city>
+		<city key='铜仁'>
+			<district key='铜仁'></district>
+			<district key='江口'></district>
+			<district key='玉屏'></district>
+			<district key='石阡'></district>
+			<district key='思南'></district>
+			<district key='印江'></district>
+			<district key='德江'></district>
+			<district key='沿河'></district>
+			<district key='松桃'></district>
+			<district key='万山特区'></district>
+		</city>
+		<city key='黔西南'>
+			<district key='兴义'></district>
+			<district key='兴仁'></district>
+			<district key='普安'></district>
+			<district key='晴隆'></district>
+			<district key='贞丰'></district>
+			<district key='望谟'></district>
+			<district key='册亨'></district>
+			<district key='安龙'></district>
+		</city>
+		<city key='毕节'>
+			<district key='毕节'></district>
+			<district key='大方'></district>
+			<district key='黔西'></district>
+			<district key='金沙'></district>
+			<district key='织金'></district>
+			<district key='纳雍'></district>
+			<district key='威宁'></district>
+			<district key='赫章'></district>
+		</city>
+		<city key='黔东南'>
+			<district key='凯里'></district>
+			<district key='黄平'></district>
+			<district key='施秉'></district>
+			<district key='三穗'></district>
+			<district key='镇远'></district>
+			<district key='岑巩'></district>
+			<district key='天柱'></district>
+			<district key='锦屏'></district>
+			<district key='剑河'></district>
+			<district key='台江'></district>
+			<district key='黎平'></district>
+			<district key='榕江'></district>
+			<district key='从江'></district>
+			<district key='雷山'></district>
+			<district key='麻江'></district>
+			<district key='丹寨'></district>
+		</city>
+		<city key='黔南'>
+			<district key='都匀'></district>
+			<district key='福泉'></district>
+			<district key='荔波'></district>
+			<district key='贵定'></district>
+			<district key='瓮安'></district>
+			<district key='独山'></district>
+			<district key='平塘'></district>
+			<district key='罗甸'></district>
+			<district key='长顺'></district>
+			<district key='龙里'></district>
+			<district key='惠水'></district>
+			<district key='三都'></district>
+		</city>
+	</prov>
+	<prov key='云南'>
+		<city key='昆明'>
+			<district key='五华区'></district>
+			<district key='盘龙区'></district>
+			<district key='官渡区'></district>
+			<district key='西山区'></district>
+			<district key='东川区'></district>
+			<district key='呈贡'></district>
+			<district key='晋宁'></district>
+			<district key='富民'></district>
+			<district key='宜良'></district>
+			<district key='石林'></district>
+			<district key='嵩明'></district>
+			<district key='禄劝'></district>
+			<district key='寻甸'></district>
+			<district key='安宁'></district>
+		</city>
+		<city key='曲靖'>
+			<district key='麒麟区'></district>
+			<district key='马龙'></district>
+			<district key='陆良'></district>
+			<district key='师宗'></district>
+			<district key='罗平'></district>
+			<district key='富源'></district>
+			<district key='会泽'></district>
+			<district key='沾益'></district>
+			<district key='宣威'></district>
+		</city>
+		<city key='玉溪'>
+			<district key='红塔区'></district>
+			<district key='江川'></district>
+			<district key='澄江'></district>
+			<district key='通海'></district>
+			<district key='华宁'></district>
+			<district key='易门'></district>
+			<district key='峨山'></district>
+			<district key='新平'></district>
+			<district key='元江'></district>
+		</city>
+		<city key='保山'>
+			<district key='隆阳区'></district>
+			<district key='施甸'></district>
+			<district key='腾冲'></district>
+			<district key='龙陵'></district>
+			<district key='昌宁'></district>
+		</city>
+		<city key='昭通'>
+			<district key='昭阳区'></district>
+			<district key='鲁甸'></district>
+			<district key='巧家'></district>
+			<district key='盐津'></district>
+			<district key='大关'></district>
+			<district key='永善'></district>
+			<district key='绥江'></district>
+			<district key='镇雄'></district>
+			<district key='彝良'></district>
+			<district key='威信'></district>
+			<district key='水富'></district>
+		</city>
+		<city key='丽江'>
+			<district key='古城区'></district>
+			<district key='玉龙'></district>
+			<district key='永胜'></district>
+			<district key='华坪'></district>
+			<district key='宁蒗'></district>
+		</city>
+		<city key='思茅'>
+			<district key='翠云区'></district>
+			<district key='普洱'></district>
+			<district key='墨江'></district>
+			<district key='景东'></district>
+			<district key='景谷'></district>
+			<district key='镇沅'></district>
+			<district key='江城'></district>
+			<district key='孟连'></district>
+			<district key='澜沧'></district>
+			<district key='西盟'></district>
+		</city>
+		<city key='临沧'>
+			<district key='临翔区'></district>
+			<district key='凤庆'></district>
+			<district key='云县'></district>
+			<district key='永德'></district>
+			<district key='镇康'></district>
+			<district key='双江'></district>
+			<district key='耿马'></district>
+			<district key='沧源'></district>
+		</city>
+		<city key='楚雄'>
+			<district key='楚雄'></district>
+			<district key='双柏'></district>
+			<district key='牟定'></district>
+			<district key='南华'></district>
+			<district key='姚安'></district>
+			<district key='大姚'></district>
+			<district key='永仁'></district>
+			<district key='元谋'></district>
+			<district key='武定'></district>
+			<district key='禄丰'></district>
+		</city>
+		<city key='红河'>
+			<district key='个旧'></district>
+			<district key='开远'></district>
+			<district key='蒙自'></district>
+			<district key='屏边'></district>
+			<district key='建水'></district>
+			<district key='石屏'></district>
+			<district key='弥勒'></district>
+			<district key='泸西'></district>
+			<district key='元阳'></district>
+			<district key='红河'></district>
+			<district key='金平'></district>
+			<district key='绿春'></district>
+			<district key='河口'></district>
+		</city>
+		<city key='文山'>
+			<district key='文山'></district>
+			<district key='砚山'></district>
+			<district key='西畴'></district>
+			<district key='麻栗坡'></district>
+			<district key='马关'></district>
+			<district key='丘北'></district>
+			<district key='广南'></district>
+			<district key='富宁'></district>
+		</city>
+		<city key='西双版纳'>
+			<district key='景洪'></district>
+			<district key='勐海'></district>
+			<district key='勐腊'></district>
+		</city>
+		<city key='大理'>
+			<district key='大理'></district>
+			<district key='漾濞'></district>
+			<district key='祥云'></district>
+			<district key='宾川'></district>
+			<district key='弥渡'></district>
+			<district key='南涧'></district>
+			<district key='巍山'></district>
+			<district key='永平'></district>
+			<district key='云龙'></district>
+			<district key='洱源'></district>
+			<district key='剑川'></district>
+			<district key='鹤庆'></district>
+		</city>
+		<city key='德宏'>
+			<district key='瑞丽'></district>
+			<district key='潞西'></district>
+			<district key='梁河'></district>
+			<district key='盈江'></district>
+			<district key='陇川'></district>
+		</city>
+		<city key='怒江'>
+			<district key='泸水'></district>
+			<district key='福贡'></district>
+			<district key='贡山'></district>
+			<district key='兰坪'></district>
+		</city>
+		<city key='迪庆'>
+			<district key='香格里拉'></district>
+			<district key='德钦'></district>
+			<district key='维西'></district>
+		</city>
+	</prov>
+	<prov key='西藏'>
+		<city key='拉萨'>
+			<district key='城关区'></district>
+			<district key='林周'></district>
+			<district key='当雄'></district>
+			<district key='尼木'></district>
+			<district key='曲水'></district>
+			<district key='堆龙德庆'></district>
+			<district key='达孜'></district>
+			<district key='墨竹工卡'></district>
+		</city>
+		<city key='昌都'>
+			<district key='昌都'></district>
+			<district key='江达'></district>
+			<district key='贡觉'></district>
+			<district key='类乌齐'></district>
+			<district key='丁青'></district>
+			<district key='察雅'></district>
+			<district key='八宿'></district>
+			<district key='左贡'></district>
+			<district key='芒康'></district>
+			<district key='洛隆'></district>
+			<district key='边坝'></district>
+		</city>
+		<city key='山南'>
+			<district key='乃东'></district>
+			<district key='扎囊'></district>
+			<district key='贡嘎'></district>
+			<district key='桑日'></district>
+			<district key='琼结'></district>
+			<district key='曲松'></district>
+			<district key='措美'></district>
+			<district key='洛扎'></district>
+			<district key='加查'></district>
+			<district key='隆子'></district>
+			<district key='错那'></district>
+			<district key='浪卡子'></district>
+		</city>
+		<city key='日喀则'>
+			<district key='日喀则'></district>
+			<district key='南木林'></district>
+			<district key='江孜'></district>
+			<district key='定日'></district>
+			<district key='萨迦'></district>
+			<district key='拉孜'></district>
+			<district key='昂仁'></district>
+			<district key='谢通门'></district>
+			<district key='白朗'></district>
+			<district key='仁布'></district>
+			<district key='康马'></district>
+			<district key='定结'></district>
+			<district key='仲巴'></district>
+			<district key='亚东'></district>
+			<district key='吉隆'></district>
+			<district key='聂拉木'></district>
+			<district key='萨嘎'></district>
+			<district key='岗巴'></district>
+		</city>
+		<city key='那曲'>
+			<district key='那曲'></district>
+			<district key='嘉黎'></district>
+			<district key='比如'></district>
+			<district key='聂荣'></district>
+			<district key='安多'></district>
+			<district key='申扎'></district>
+			<district key='索县'></district>
+			<district key='班戈'></district>
+			<district key='巴青'></district>
+			<district key='尼玛'></district>
+		</city>
+		<city key='阿里'>
+			<district key='普兰'></district>
+			<district key='札达'></district>
+			<district key='噶尔'></district>
+			<district key='日土'></district>
+			<district key='革吉'></district>
+			<district key='改则'></district>
+			<district key='措勤'></district>
+		</city>
+		<city key='林芝'>
+			<district key='林芝'></district>
+			<district key='工布江达'></district>
+			<district key='米林'></district>
+			<district key='墨脱'></district>
+			<district key='波密'></district>
+			<district key='察隅'></district>
+			<district key='朗县'></district>
+		</city>
+	</prov>
+	<prov key='陕西'>
+		<city key='西安'>
+			<district key='新城区'></district>
+			<district key='碑林区'></district>
+			<district key='莲湖区'></district>
+			<district key='灞桥区'></district>
+			<district key='未央区'></district>
+			<district key='雁塔区'></district>
+			<district key='阎良区'></district>
+			<district key='临潼区'></district>
+			<district key='长安区'></district>
+			<district key='蓝田'></district>
+			<district key='周至'></district>
+			<district key='户县'></district>
+			<district key='高陵'></district>
+		</city>
+		<city key='铜川'>
+			<district key='王益区'></district>
+			<district key='印台区'></district>
+			<district key='耀州区'></district>
+			<district key='宜君'></district>
+		</city>
+		<city key='宝鸡'>
+			<district key='渭滨区'></district>
+			<district key='金台区'></district>
+			<district key='陈仓区'></district>
+			<district key='凤翔'></district>
+			<district key='岐山'></district>
+			<district key='扶风'></district>
+			<district key='眉县'></district>
+			<district key='陇县'></district>
+			<district key='千阳'></district>
+			<district key='麟游'></district>
+			<district key='凤县'></district>
+			<district key='太白'></district>
+		</city>
+		<city key='咸阳'>
+			<district key='秦都区'></district>
+			<district key='杨凌区'></district>
+			<district key='渭城区'></district>
+			<district key='三原'></district>
+			<district key='泾阳'></district>
+			<district key='乾县'></district>
+			<district key='礼泉'></district>
+			<district key='永寿'></district>
+			<district key='彬县'></district>
+			<district key='长武'></district>
+			<district key='旬邑'></district>
+			<district key='淳化'></district>
+			<district key='武功'></district>
+			<district key='兴平'></district>
+		</city>
+		<city key='渭南'>
+			<district key='临渭区'></district>
+			<district key='华县'></district>
+			<district key='潼关'></district>
+			<district key='大荔'></district>
+			<district key='合阳'></district>
+			<district key='澄城'></district>
+			<district key='蒲城'></district>
+			<district key='白水'></district>
+			<district key='富平'></district>
+			<district key='韩城'></district>
+			<district key='华阴'></district>
+		</city>
+		<city key='延安'>
+			<district key='宝塔区'></district>
+			<district key='延长'></district>
+			<district key='延川'></district>
+			<district key='子长'></district>
+			<district key='安塞'></district>
+			<district key='志丹'></district>
+			<district key='吴旗'></district>
+			<district key='甘泉'></district>
+			<district key='富县'></district>
+			<district key='洛川'></district>
+			<district key='宜川'></district>
+			<district key='黄龙'></district>
+			<district key='黄陵'></district>
+		</city>
+		<city key='汉中'>
+			<district key='汉台区'></district>
+			<district key='南郑'></district>
+			<district key='城固'></district>
+			<district key='洋县'></district>
+			<district key='西乡'></district>
+			<district key='勉县'></district>
+			<district key='宁强'></district>
+			<district key='略阳'></district>
+			<district key='镇巴'></district>
+			<district key='留坝'></district>
+			<district key='佛坪'></district>
+		</city>
+		<city key='榆林'>
+			<district key='榆阳区'></district>
+			<district key='神木'></district>
+			<district key='府谷'></district>
+			<district key='横山'></district>
+			<district key='靖边'></district>
+			<district key='定边'></district>
+			<district key='绥德'></district>
+			<district key='米脂'></district>
+			<district key='佳县'></district>
+			<district key='吴堡'></district>
+			<district key='清涧'></district>
+			<district key='子洲'></district>
+		</city>
+		<city key='安康'>
+			<district key='汉滨区'></district>
+			<district key='汉阴'></district>
+			<district key='石泉'></district>
+			<district key='宁陕'></district>
+			<district key='紫阳'></district>
+			<district key='岚皋'></district>
+			<district key='平利'></district>
+			<district key='镇坪'></district>
+			<district key='旬阳'></district>
+			<district key='白河'></district>
+		</city>
+		<city key='商洛'>
+			<district key='商州区'></district>
+			<district key='洛南'></district>
+			<district key='丹凤'></district>
+			<district key='商南'></district>
+			<district key='山阳'></district>
+			<district key='镇安'></district>
+			<district key='柞水'></district>
+		</city>
+	</prov>
+	<prov key='甘肃'>
+		<city key='兰州'>
+			<district key='城关区'></district>
+			<district key='七里河区'></district>
+			<district key='西固区'></district>
+			<district key='安宁区'></district>
+			<district key='红古区'></district>
+			<district key='永登'></district>
+			<district key='皋兰'></district>
+			<district key='榆中'></district>
+		</city>
+		<city key='嘉峪关'></city>
+		<city key='金昌'>
+			<district key='金川区'></district>
+			<district key='永昌'></district>
+		</city>
+		<city key='白银'>
+			<district key='白银区'></district>
+			<district key='平川区'></district>
+			<district key='靖远'></district>
+			<district key='会宁'></district>
+			<district key='景泰'></district>
+		</city>
+		<city key='天水'>
+			<district key='秦城区'></district>
+			<district key='北道区'></district>
+			<district key='清水'></district>
+			<district key='秦安'></district>
+			<district key='甘谷'></district>
+			<district key='武山'></district>
+			<district key='张家川'></district>
+		</city>
+		<city key='武威'>
+			<district key='凉州区'></district>
+			<district key='民勤'></district>
+			<district key='古浪'></district>
+			<district key='天祝'></district>
+		</city>
+		<city key='张掖'>
+			<district key='甘州区'></district>
+			<district key='肃南'></district>
+			<district key='民乐'></district>
+			<district key='临泽'></district>
+			<district key='高台'></district>
+			<district key='山丹'></district>
+		</city>
+		<city key='平凉'>
+			<district key='崆峒区'></district>
+			<district key='泾川'></district>
+			<district key='灵台'></district>
+			<district key='崇信'></district>
+			<district key='华亭'></district>
+			<district key='庄浪'></district>
+			<district key='静宁'></district>
+		</city>
+		<city key='酒泉'>
+			<district key='肃州区'></district>
+			<district key='金塔'></district>
+			<district key='安西'></district>
+			<district key='肃北'></district>
+			<district key='阿克塞'></district>
+			<district key='玉门'></district>
+			<district key='敦煌'></district>
+		</city>
+		<city key='庆阳'>
+			<district key='西峰区'></district>
+			<district key='庆城'></district>
+			<district key='环县'></district>
+			<district key='华池'></district>
+			<district key='合水'></district>
+			<district key='正宁'></district>
+			<district key='宁县'></district>
+			<district key='镇原'></district>
+		</city>
+		<city key='定西'>
+			<district key='安定区'></district>
+			<district key='通渭'></district>
+			<district key='陇西'></district>
+			<district key='渭源'></district>
+			<district key='临洮'></district>
+			<district key='漳县'></district>
+			<district key='岷县'></district>
+		</city>
+		<city key='陇南'>
+			<district key='武都区'></district>
+			<district key='成县'></district>
+			<district key='文县'></district>
+			<district key='宕昌'></district>
+			<district key='康县'></district>
+			<district key='西和'></district>
+			<district key='礼县'></district>
+			<district key='徽县'></district>
+			<district key='两当'></district>
+		</city>
+		<city key='临夏'>
+			<district key='临夏'></district>
+			<district key='临夏'></district>
+			<district key='康乐'></district>
+			<district key='永靖'></district>
+			<district key='广河'></district>
+			<district key='和政'></district>
+			<district key='东乡族自治县'></district>
+			<district key='积石山'></district>
+		</city>
+		<city key='甘南'>
+			<district key='合作'></district>
+			<district key='临潭'></district>
+			<district key='卓尼'></district>
+			<district key='舟曲'></district>
+			<district key='迭部'></district>
+			<district key='玛曲'></district>
+			<district key='碌曲'></district>
+			<district key='夏河'></district>
+		</city>
+	</prov>
+	<prov key='青海'>
+		<city key='西宁'>
+			<district key='城东区'></district>
+			<district key='城中区'></district>
+			<district key='城西区'></district>
+			<district key='城北区'></district>
+			<district key='大通'></district>
+			<district key='湟中'></district>
+			<district key='湟源'></district>
+		</city>
+		<city key='海东'>
+			<district key='平安'></district>
+			<district key='民和'></district>
+			<district key='乐都'></district>
+			<district key='互助'></district>
+			<district key='化隆'></district>
+			<district key='循化'></district>
+		</city>
+		<city key='海北'>
+			<district key='门源'></district>
+			<district key='祁连'></district>
+			<district key='海晏'></district>
+			<district key='刚察'></district>
+		</city>
+		<city key='黄南'>
+			<district key='同仁'></district>
+			<district key='尖扎'></district>
+			<district key='泽库'></district>
+			<district key='河南'></district>
+		</city>
+		<city key='海南'>
+			<district key='同德'></district>
+			<district key='贵德'></district>
+			<district key='兴海'></district>
+			<district key='贵南'></district>
+		</city>
+		<city key='果洛'>
+			<district key='玛沁'></district>
+			<district key='班玛'></district>
+			<district key='甘德'></district>
+			<district key='达日'></district>
+			<district key='久治'></district>
+			<district key='玛多'></district>
+		</city>
+		<city key='玉树'>
+			<district key='玉树'></district>
+			<district key='杂多'></district>
+			<district key='称多'></district>
+			<district key='治多'></district>
+			<district key='囊谦'></district>
+			<district key='曲麻莱'></district>
+		</city>
+		<city key='海西'>
+			<district key='格尔木'></district>
+			<district key='德令哈'></district>
+			<district key='乌兰'></district>
+			<district key='都兰'></district>
+			<district key='天峻'></district>
+		</city>
+	</prov>
+	<prov key='宁夏'>
+		<city key='银川'>
+			<district key='兴庆区'></district>
+			<district key='西夏区'></district>
+			<district key='金凤区'></district>
+			<district key='永宁'></district>
+			<district key='贺兰'></district>
+			<district key='灵武'></district>
+		</city>
+		<city key='石嘴山'>
+			<district key='大武口区'></district>
+			<district key='惠农区'></district>
+			<district key='平罗'></district>
+		</city>
+		<city key='吴忠'>
+			<district key='利通区'></district>
+			<district key='盐池'></district>
+			<district key='同心'></district>
+			<district key='青铜峡'></district>
+		</city>
+		<city key='固原'>
+			<district key='原州区'></district>
+			<district key='西吉'></district>
+			<district key='隆德'></district>
+			<district key='泾源'></district>
+			<district key='彭阳'></district>
+		</city>
+		<city key='中卫'>
+			<district key='沙坡头区'></district>
+			<district key='中宁'></district>
+			<district key='海原'></district>
+		</city>
+	</prov>
+	<prov key='新疆'>
+		<city key='乌鲁木齐'>
+			<district key='天山区'></district>
+			<district key='沙依巴克区'></district>
+			<district key='新市区'></district>
+			<district key='水磨沟区'></district>
+			<district key='头屯河区'></district>
+			<district key='达坂城区'></district>
+			<district key='东山区'></district>
+			<district key='乌鲁木齐'></district>
+		</city>
+		<city key='克拉玛依'>
+			<district key='独山子区'></district>
+			<district key='克拉玛依区'></district>
+			<district key='白碱滩区'></district>
+			<district key='乌尔禾区'></district>
+		</city>
+		<city key='吐鲁番'>
+			<district key='吐鲁番'></district>
+			<district key='鄯善'></district>
+			<district key='托克逊'></district>
+		</city>
+		<city key='哈密'>
+			<district key='哈密'></district>
+			<district key='巴里坤'></district>
+			<district key='伊吾'></district>
+		</city>
+		<city key='昌吉'>
+			<district key='昌吉'></district>
+			<district key='阜康'></district>
+			<district key='米泉'></district>
+			<district key='呼图壁'></district>
+			<district key='玛纳斯'></district>
+			<district key='奇台'></district>
+			<district key='吉木萨尔'></district>
+			<district key='木垒'></district>
+		</city>
+		<city key='博尔'>
+			<district key='博乐'></district>
+			<district key='精河'></district>
+			<district key='温泉'></district>
+		</city>
+		<city key='巴音郭楞'>
+			<district key='库尔勒'></district>
+			<district key='轮台'></district>
+			<district key='尉犁'></district>
+			<district key='若羌'></district>
+			<district key='且末'></district>
+			<district key='焉耆'></district>
+			<district key='和静'></district>
+			<district key='和硕'></district>
+			<district key='博湖'></district>
+		</city>
+		<city key='阿克苏'>
+			<district key='阿克苏'></district>
+			<district key='温宿'></district>
+			<district key='库车'></district>
+			<district key='沙雅'></district>
+			<district key='新和'></district>
+			<district key='拜城'></district>
+			<district key='乌什'></district>
+			<district key='阿瓦提'></district>
+			<district key='柯坪'></district>
+		</city>
+		<city key='克孜勒苏'>
+			<district key='阿图什'></district>
+			<district key='阿克陶'></district>
+			<district key='阿合奇'></district>
+			<district key='乌恰'></district>
+		</city>
+		<city key='喀什'>
+			<district key='喀什'></district>
+			<district key='疏附'></district>
+			<district key='疏勒'></district>
+			<district key='英吉沙'></district>
+			<district key='泽普'></district>
+			<district key='莎车'></district>
+			<district key='叶城'></district>
+			<district key='麦盖提'></district>
+			<district key='岳普湖'></district>
+			<district key='伽师'></district>
+			<district key='巴楚'></district>
+			<district key='塔什库尔干'></district>
+		</city>
+		<city key='和田'>
+			<district key='和田'></district>
+			<district key='和田'></district>
+			<district key='墨玉'></district>
+			<district key='皮山'></district>
+			<district key='洛浦'></district>
+			<district key='策勒'></district>
+			<district key='于田'></district>
+			<district key='民丰'></district>
+		</city>
+		<city key='伊犁'>
+			<district key='伊宁'></district>
+			<district key='奎屯'></district>
+			<district key='伊宁'></district>
+			<district key='察布查尔'></district>
+			<district key='霍城'></district>
+			<district key='巩留'></district>
+			<district key='新源'></district>
+			<district key='昭苏'></district>
+			<district key='特克斯'></district>
+			<district key='尼勒克'></district>
+		</city>
+		<city key='塔城'>
+			<district key='塔城'></district>
+			<district key='乌苏'></district>
+			<district key='额敏'></district>
+			<district key='沙湾'></district>
+			<district key='托里'></district>
+			<district key='裕民'></district>
+			<district key='和布克赛尔'></district>
+		</city>
+		<city key='阿勒泰'>
+			<district key='阿勒泰'></district>
+			<district key='布尔津'></district>
+			<district key='富蕴'></district>
+			<district key='福海'></district>
+			<district key='哈巴河'></district>
+			<district key='青河'></district>
+			<district key='吉木乃'></district>
+		</city>
+		<city key='石河子'></city>
+		<city key='阿拉尔'></city>
+		<city key='图木舒克'></city>
+		<city key='五家渠'></city>
+	</prov>
+	<prov key='台湾'></prov>
+	<prov key='香港'></prov>
+	<prov key='澳门'></prov>
+</property>
+</configuration>

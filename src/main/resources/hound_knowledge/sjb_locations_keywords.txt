@@ -1,0 +1,352 @@
+# 该文件包含所有旅游频道的关键词极其相关属性.
+# 格式: <keyword>$<synonym1>$<synonym2>|<type>|<treepath1>$<treepath2>
+# 	<type>: A(地区词)
+# 	<treepath>: 可选;没有表示该词适用于所有treepath; treepath内部用#分割
+# 注: 所有开始于#的行为注释行
+#
+Afghanistan|A|Asia#Afghanistan
+Armenia|A|Asia#Armenia
+Azerbaijan|A|Asia#Azerbaijan
+Bahrain|A|Asia#Bahrain
+Bangladesh|A|Asia#Bangladesh
+Bhutan|A|Asia#Bhutan
+Brunei|A|Asia#Brunei
+Burma|A|Asia#Burma
+Cambodia|A|Asia#Cambodia
+China|A|Asia#China
+Beijing|A|Asia#China#Beijing
+Tianjin|A|Asia#China#Tianjin
+Hebei|A|Asia#China#Hebei
+Shanxi|A|Asia#China#Shanxi
+Inner Mongolia|A|Asia#China#Inner Mongolia
+Liaoning|A|Asia#China#Liaoning
+Jilin|A|Asia#China#Jilin
+Heilongjiang|A|Asia#China#Heilongjiang
+Shanghai|A|Asia#China#Shanghai
+Jiangshu|A|Asia#China#Jiangshu
+Zhejiang|A|Asia#China#Zhejiang
+Anhui|A|Asia#China#Anhui
+Fujian|A|Asia#China#Fujian
+Jiangxi|A|Asia#China#Jiangxi
+Shandong|A|Asia#China#Shandong
+Henan|A|Asia#China#Henan
+Hubei|A|Asia#China#Hubei
+Hunan|A|Asia#China#Hunan
+Guangdong|A|Asia#China#Guangdong
+Guangxi|A|Asia#China#Guangxi
+Hainan|A|Asia#China#Hainan
+Chongqing|A|Asia#China#Chongqing
+Sichuan|A|Asia#China#Sichuan
+Guizhou|A|Asia#China#Guizhou
+Yunnan|A|Asia#China#Yunnan
+Tibet|A|Asia#China#Tibet
+Shaanxi|A|Asia#China#Shaanxi
+Gansu|A|Asia#China#Gansu
+Qinghai|A|Asia#China#Qinghai
+Ningxia|A|Asia#China#Ningxia
+Xinjiang|A|Asia#China#Xinjiang
+Taiwan|A|Asia#China#Taiwan
+Hong Kong|A|Asia#China#Hong Kong
+Macao|A|Asia#China#Macao
+Cyprus|A|Asia#Cyprus
+East Timor|A|Asia#East Timor
+Georgia|A|Asia#Georgia
+India|A|Asia#India
+Indonesia|A|Asia#Indonesia
+Iran|A|Asia#Iran
+Iraq|A|Asia#Iraq
+Israel|A|Asia#Israel
+Japan|A|Asia#Japan
+Jordan|A|Asia#Jordan
+Kazakhstan|A|Asia#Kazakhstan
+Kuwait|A|Asia#Kuwait
+Kyrgyzstan|A|Asia#Kyrgyzstan
+Laos|A|Asia#Laos
+Lebanon|A|Asia#Lebanon
+Malaysia|A|Asia#Malaysia
+Maldives|A|Asia#Maldives
+Mongolia|A|Asia#Mongolia
+Nepal|A|Asia#Nepal
+North Korea|A|Asia#North Korea
+Oman|A|Asia#Oman
+Pakistan|A|Asia#Pakistan
+Palestinian territories|A|Asia#Palestinian territories
+Philippines|A|Asia#Philippines
+Qatar|A|Asia#Qatar
+Russia|A|Asia#Russia
+Saudi Arabia|A|Asia#Saudi Arabia
+Singapore|A|Asia#Singapore
+Sri Lanka|A|Asia#Sri Lanka
+South Korea|A|Asia#South Korea
+Syria|A|Asia#Syria
+Taiwan|A|Asia#Taiwan
+Tajikistan|A|Asia#Tajikistan
+Thailand|A|Asia#Thailand
+Turkey|A|Asia#Turkey
+Turkmenistan|A|Asia#Turkmenistan
+United Arab Emirates|A|Asia#United Arab Emirates
+Uzbekistan|A|Asia#Uzbekistan
+Vietnam|A|Asia#Vietnam
+Yemen|A|Asia#Yemen
+Albania|A|Europe#Albania
+Andorra|A|Europe#Andorra
+Armenia|A|Europe#Armenia
+Austria|A|Europe#Austria
+Azerbaijan|A|Europe#Azerbaijan
+Belarus|A|Europe#Belarus
+Netherlands|A|Europe#Netherlands
+Belgium|A|Europe#Belgium
+Bosnia and Herzegovina|A|Europe#Bosnia and Herzegovina
+Bulgaria|A|Europe#Bulgaria
+Croatia|A|Europe#Croatia
+Cyprus|A|Europe#Cyprus
+Czech Republic|A|Europe#Czech Republic
+Denmark|A|Europe#Denmark
+Estonia|A|Europe#Estonia
+Finland|A|Europe#Finland
+France|A|Europe#France
+Georgia|A|Europe#Georgia
+Germany|A|Europe#Germany
+Greece|A|Europe#Greece
+Hungary|A|Europe#Hungary
+Iceland|A|Europe#Iceland
+Ireland|A|Europe#Ireland
+Italy|A|Europe#Italy
+Kazakhstan|A|Europe#Kazakhstan
+Latvia|A|Europe#Latvia
+Liechtenstein|A|Europe#Liechtenstein
+Luxembourg|A|Europe#Luxembourg
+Malta|A|Europe#Malta
+Moldova|A|Europe#Moldova
+Monaco|A|Europe#Monaco
+Montenegro|A|Europe#Montenegro
+the Netherlands|A|Europe#the Netherlands
+Norway|A|Europe#Norway
+Poland|A|Europe#Poland
+Romania|A|Europe#Romania
+Russia|A|Europe#Russia
+San Marino|A|Europe#San Marino
+Serbia|A|Europe#Serbia
+Slovakia|A|Europe#Slovakia
+Slovenia|A|Europe#Slovenia
+Spain|A|Europe#Spain
+Sweden|A|Europe#Sweden
+Switzerland|A|Europe#Switzerland
+Turkey|A|Europe#Turkey
+Ukraine|A|Europe#Ukraine
+the Vatican City|A|Europe#the Vatican City
+Abkhazia|A|Europe#Abkhazia
+Kosovo|A|Europe#Kosovo
+Nagorno-Karabakh|A|Europe#Nagorno-Karabakh
+Northern Cyprus|A|Europe#Northern Cyprus
+Transnistria|A|Europe#Transnistria
+South Ossetia|A|Europe#South Ossetia
+United Kingdom|A|Europe#United Kingdom
+the Faroe Islands|A|Europe#the Faroe Islands
+Gibraltar|A|Europe#Gibraltar
+Guernsey|A|Europe#Guernsey
+Portugal|A|Europe#Portugal
+the Isle of Man|A|Europe#the Isle of Man
+Jersey|A|Europe#Jersey
+Åland|A|Europe#Åland
+Svalbard|A|Europe#Svalbard
+Australia|A|Oceania#Australia
+Fiji|A|Oceania#Fiji
+Kiribati|A|Oceania#Kiribati
+the Marshall Islands|A|Oceania#the Marshall Islands
+the Federated States of Micronesia|A|Oceania#the Federated States of Micronesia
+Nauru|A|Oceania#Nauru
+New Zealand|A|Oceania#New Zealand
+Palau|A|Oceania#Palau
+Papua New Guinea|A|Oceania#Papua New Guinea
+Samoa|A|Oceania#Samoa
+the Solomon Islands|A|Oceania#the Solomon Islands
+Tonga|A|Oceania#Tonga
+Tuvalu|A|Oceania#Tuvalu
+Vanuatu|A|Oceania#Vanuatu
+Algeria|A|Africa#Algeria
+Angola|A|Africa#Angola
+Benin|A|Africa#Benin
+Botswana|A|Africa#Botswana
+Burkina Faso|A|Africa#Burkina Faso
+Cameroon|A|Africa#Cameroon
+Cape Verde|A|Africa#Cape Verde
+Central African Republic|A|Africa#Central African Republic
+Chad|A|Africa#Chad
+Comoros|A|Africa#Comoros
+Democratic Republic of Congo|A|Africa#Democratic Republic of Congo
+Djibouti|A|Africa#Djibouti
+Egypt|A|Africa#Egypt
+Equatorial Guinea|A|Africa#Equatorial Guinea
+Eritrea|A|Africa#Eritrea
+Ethiopia|A|Africa#Ethiopia
+Gabon|A|Africa#Gabon
+Gambia|A|Africa#Gambia
+Ghana|A|Africa#Ghana
+Guinea|A|Africa#Guinea
+Guinea-Bissau|A|Africa#Guinea-Bissau
+Ivory Coast|A|Africa#Ivory Coast
+Kenya|A|Africa#Kenya
+Lesotho|A|Africa#Lesotho
+Liberia|A|Africa#Liberia
+Libya|A|Africa#Libya
+Madagascar|A|Africa#Madagascar
+Malawi|A|Africa#Malawi
+Mali|A|Africa#Mali
+Mauritania|A|Africa#Mauritania
+Mauritius|A|Africa#Mauritius
+Morocco|A|Africa#Morocco
+Mozambique|A|Africa#Mozambique
+Namibia|A|Africa#Namibia
+Niger|A|Africa#Niger
+Nigeria|A|Africa#Nigeria
+Republic of Congo|A|Africa#Republic of Congo
+Rwanda|A|Africa#Rwanda
+Senegal|A|Africa#Senegal
+Seychelles|A|Africa#Seychelles
+Sierra Leone|A|Africa#Sierra Leone
+Somalia|A|Africa#Somalia
+South Africa|A|Africa#South Africa
+South Sudan|A|Africa#South Sudan
+Sudan|A|Africa#Sudan
+Swaziland|A|Africa#Swaziland
+Tanzania|A|Africa#Tanzania
+Togo|A|Africa#Togo
+Tunisia|A|Africa#Tunisia
+Uganda|A|Africa#Uganda
+Zambia|A|Africa#Zambia
+Zimbabwe|A|Africa#Zimbabwe
+Argentina|A|America#Argentina
+Bolivia|A|America#Bolivia
+Brazil|A|America#Brazil
+Chile|A|America#Chile
+Colombia|A|America#Colombia
+Ecuador|A|America#Ecuador
+Guyana|A|America#Guyana
+Paraguay|A|America#Paraguay
+Peru|A|America#Peru
+Suriname|A|America#Suriname
+Uruguay|A|America#Uruguay
+Venezuela|A|America#Venezuela
+Antigua and Barbuda|A|America#Antigua and Barbuda
+the Bahamas|A|America#the Bahamas
+Barbados|A|America#Barbados
+Belize|A|America#Belize
+Canada|A|America#Canada
+Costa Rica|A|America#Costa Rica
+Cuba|A|America#Cuba
+Dominica|A|America#Dominica
+the Dominican Republic|A|America#the Dominican Republic
+El Salvador|A|America#El Salvador
+Grenada|A|America#Grenada
+Guatemala|A|America#Guatemala
+Haiti|A|America#Haiti
+Honduras|A|America#Honduras
+Jamaica|A|America#Jamaica
+Mexico|A|America#Mexico
+Nicaragua|A|America#Nicaragua
+Panama|A|America#Panama
+Saint Kitts and Nevis|A|America#Saint Kitts and Nevis
+Saint Lucia|A|America#Saint Lucia
+Saint Vincent and the Grenadines|A|America#Saint Vincent and the Grenadines
+Trinidad and Tobago|A|America#Trinidad and Tobago
+United States|A|America#United States
+Alabama|A|America#United States#Alabama
+AL|A|America#United States#AL
+Alaska|A|America#United States#Alaska
+AK|A|America#United States#AK
+Arizona|A|America#United States#Arizona
+AZ|A|America#United States#AZ
+Arkansas|A|America#United States#Arkansas
+AR|A|America#United States#AR
+California|A|America#United States#California
+CA|A|America#United States#CA
+Colorado|A|America#United States#Colorado
+CO|A|America#United States#CO
+Connecticut|A|America#United States#Connecticut
+CT|A|America#United States#CT
+Delaware|A|America#United States#Delaware
+DE|A|America#United States#DE
+Florida|A|America#United States#Florida
+FL|A|America#United States#FL
+Georgiav|A|America#United States#Georgiav
+GA|A|America#United States#GA
+Hawaii|A|America#United States#Hawaii
+HI|A|America#United States#HI
+Idaho|A|America#United States#Idaho
+ID|A|America#United States#ID
+Illinois|A|America#United States#Illinois
+IL|A|America#United States#IL
+Indiana|A|America#United States#Indiana
+IN|A|America#United States#IN
+Iowa|A|America#United States#Iowa
+IA|A|America#United States#IA
+Kansas|A|America#United States#Kansas
+KS|A|America#United States#KS
+Kentucky|A|America#United States#Kentucky
+KY|A|America#United States#KY
+Louisiana|A|America#United States#Louisiana
+LA|A|America#United States#LA
+Maine|A|America#United States#Maine
+ME|A|America#United States#ME
+Maryland|A|America#United States#Maryland
+MD|A|America#United States#MD
+Massachusetts|A|America#United States#Massachusetts
+MA|A|America#United States#MA
+Michigan|A|America#United States#Michigan
+MI|A|America#United States#MI
+Minnesota|A|America#United States#Minnesota
+MN|A|America#United States#MN
+Mississippi|A|America#United States#Mississippi
+MS|A|America#United States#MS
+Missouri|A|America#United States#Missouri
+MO|A|America#United States#M0
+Montana|A|America#United States#Montana
+MT|A|America#United States#MT
+Nebraska|A|America#United States#Nebraska
+NE|A|America#United States#NE
+Nevada|A|America#United States#Nevada
+NV|A|America#United States#NV
+New Hampshire|A|America#United States#New Hampshire
+NH|A|America#United States#NH
+New Jersey|A|America#United States#New Jersey
+NJ|A|America#United States#NJ
+NM|A|America#United States#NM
+New York|A|America#United States#New York
+NY|A|America#United States#NY
+North Carolina|A|America#United States#North Carolina
+NC|A|America#United States#NC
+North Dakota|A|America#United States#North Dakota
+ND|A|America#United States#ND
+Ohio|A|America#United States#Ohio
+OH|A|America#United States#OH
+Oklahoma|A|America#United States#Oklahoma
+OK|A|America#United States#OK
+Oregon|A|America#United States#Oregon
+OR|A|America#United States#OR
+Pennsylvania|A|America#United States#Pennsylvania
+PA|A|America#United States#PA
+Rhode Island|A|America#United States#Rhode Island
+RI|A|America#United States#RI
+South Carolina|A|America#United States#South Carolina
+SC|A|America#United States#SC
+South Dakota|A|America#United States#South Dakota
+SD|A|America#United States#SD
+Tennessee|A|America#United States#Tennessee
+TN|A|America#United States#TN
+Texas|A|America#United States#Texas
+TX|A|America#United States#TX
+Utah|A|America#United States#Utah
+UT|A|America#United States#UT
+Vermont|A|America#United States#Vermont
+VT|A|America#United States#VT
+VA|A|America#United States#VA
+Virginia|A|America#United States#Virginia
+Washington|A|America#United States#Washington
+WA|A|America#United States#WA
+West Virginia|A|America#United States#West Virginia
+WV|A|America#United States#WV
+Wisconsin|A|America#United States#Wisconsin
+WI|A|America#United States#WI
+Wyoming|A|America#United States#Wyoming
+WY|A|America#United States#WY

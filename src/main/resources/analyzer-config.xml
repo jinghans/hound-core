@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<configuration> 
+    <property>
+        <name>location.map</name>
+        <value>hound_knowledge/location_mapping.txt</value>
+    </property>
+    <property>
+        <name>file.location.keyword</name>
+        <value>hound_knowledge/sjb_locations_keywords.txt</value>
+    </property>
+    <property>
+        <name>file.location.treepath</name>
+        <value>hound_knowledge/sjb_locations_treepath.xml</value>
+    </property>
+    <property>
+        <name>file.scholar.location</name>
+        <value>hound_knowledge/scholar_location.xml</value>
+    </property>
+    <property>
+        <name>file.en.sentence</name>
+        <value>en-sent.bin</value>
+    </property>
+    <property>
+        <name>mdl.ner.name</name>
+        <value>english.all.3class.distsim.crf.ser.gz</value>
+    </property>
+    <property>
+        <name>mdl.ner.version</name>
+        <value>1</value>
+    </property>
+</configuration>

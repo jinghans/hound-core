@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration ver="1.6.0">
+<continent key='Asia' ch='亚洲'>
+	<country key='China' ch='中国'>
+		<area key='East China' ch='华东'>
+		</area>
+		<area key='North China' ch='华北'>
+		</area>
+		<area key='South China' ch='华南'>
+		</area>
+		<area key='Central China' ch='华中'>
+		</area>
+		<area key='Northeast China' ch='东北'>
+		</area>
+		<area key='Southwest China' ch='西南'>
+		</area>
+		<area key='Northwest China' ch='西北'>
+		</area>
+		<area key='Hong Kong' ch='香港'>
+		</area>
+		<area key='Macau' ch='澳门'>
+		</area>
+		<area key='Taiwan' ch='台湾'>
+		</area>
+	</country>
+	<country key='Japan' ch='日本'>
+	</country>
+	<country key='South Korea' ch='韩国'>
+	</country>
+	<country key='Singapore' ch='新加坡'>
+	</country>
+	<country key='India' ch='印度'>
+	</country>
+	<country key='Thailand' ch='泰国'>
+	</country>
+	<country key='Malaysia' ch='马来西亚'>
+	</country>
+	<country ch='其它'>
+	</country>
+</continent>
+
+<continent key='America' ch='美洲'>
+	<country key='United States' ch='美国'>
+		<area key='Connecticut' ch='康涅狄格州'>
+		</area>
+		<area key='Massachusetts' ch='麻萨诸塞州'>
+		</area>
+		<area key='New York' ch='纽约州'>
+		</area>
+		<area key='New Jersey' ch='新泽西州'>
+		</area>
+		<area key='Pennsylvania' ch='宾夕法尼亚州'>
+		</area>
+		<area key='California' ch='加利福尼亚州'>
+		</area>
+		<area key='Washington' ch='华盛顿州 '>
+		</area>
+		<area key='Arizona' ch='亚利桑那州'>
+		</area>
+		<area key='Colorado' ch='科罗拉多州'>
+		</area>
+		<area key='Illinois' ch='伊利诺州'>
+		</area>
+		<area key='Mississippi' ch='密西根州'>
+		</area>
+		<area key='Wisconsin' ch='威斯康星州 '>
+		</area>
+		<area key='Ohio' ch='俄亥俄州'>
+		</area>
+		<area key='Minnesota' ch='明尼苏达州'>
+		</area>
+		<area key='Florida' ch='佛罗里达州'>
+		</area>
+		<area key='North Carolina' ch='北卡罗来纳州'>
+		</area>
+		<area key='Georgia' ch='佐治亚州'>
+		</area>
+		<area key='Virginia' ch='弗吉尼亚州'>
+		</area>
+		<area key='Maryland' ch='马里兰州'>
+		</area>
+		<area key='Texas' ch='德克萨斯州'>
+		</area>
+		<area ch='其它'>
+		</area>
+	</country>
+	<country key='Canada' ch='加拿大'>
+	</country>
+	<country key='Brazil' ch='巴西'>
+	</country>
+	<country key='Colombia' ch='哥伦比亚'>
+	</country>
+	<country key='Argentina' ch='阿根廷'>
+	</country>
+	<country key='Chile' ch='智利'>
+	</country>
+	<country key='Mexico' ch='墨西哥'>
+	</country>
+	<country key='Cuba' ch='古巴'>
+	</country>
+	<country ch='其它'>
+	</country>
+</continent>
+
+<continent key='Africa' ch='非洲'>
+	<country key='South Africa' ch='南非'>
+	</country>
+	<country key='Egypt' ch='埃及'>
+	</country>
+	<country ch='其它'>
+	</country>
+</continent>
+
+<continent key='Europe' ch='欧洲'>
+	<country key='United Kingdom' ch='英国'>
+	</country>
+	<country key='Germany' ch='德国'>
+	</country>
+	<country key='France' ch='法国'>
+	</country>
+	<country key='Italy' ch='意大利'>
+	</country>
+	<country key='Finland' ch='芬兰'>
+	</country>
+	<country key='Norway' ch='挪威'>
+	</country>
+	<country key='Denmark' ch='丹麦'>
+	</country>
+	<country key='Russia' ch='俄罗斯'>
+	</country>
+	<country key='Switzerland' ch='瑞士'>
+	</country>
+	<country key='Netherlands' ch='荷兰'>
+	</country>
+	<country ch='其它'>
+	</country>
+</continent>
+<continent key='Oceania' ch='澳洲'>
+	<country key='Australia' ch='澳大利亚'>
+	</country>
+	<country key='New Zealand' ch='新西兰'>
+	</country>
+</continent>
+</configuration>
